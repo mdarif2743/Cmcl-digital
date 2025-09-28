@@ -6,10 +6,50 @@
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-2.jpg" group-title="#IP TV",PCV (MPEG-TS)
 https://padmaonline.duckdns.org:8088/pcv/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#IP TV",Shariatpur Digital Cable Vision
-https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 1
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FANCOAD LIVE 2
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE football ⚽ 
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH4VBSB9lGpTA/company-logo_200_200/company-logo_200_200/0/1630668356175?e=2147483647&v=beta&t=YHP4YFiZr_hR9Xyu8PlNcxfCbr1PTYjjqPw5zTzsyfU", Toffee
+http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
+https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_1300.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten1hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten2hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
+http://edge.zerobuff.com/bb77a5a232f8d0595ad1e94adfae31e6f6b499bd25457cbe6217bbbbcd75e34e485b1fe223f9c13162b92c2f64a1738780747a4726e99036fd357338f3bf9bdd9bb4a6dc8cc8d7c824a7add8b77ef5d6ce3f7038790c8b5d8818/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ English
+http://vm.himelop-pro.top/bdvin/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ hindi
+https://live-ak.vimeocdn.com/exp=1758821490~acl=%2Fe77dc29e-74d6-4eec-b8b2-69531ca3cbf0_fmp4%2F%2A~hmac=2ca6c8459580332bfbdee0af08ef994a3884ec01491f332b8a07033893270606/e77dc29e-74d6-4eec-b8b2-69531ca3cbf0_fmp4/avc/hls.m3u8
+
+#EXTINF:-1,HINDI DUBBING MOVIES
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1,ALL TIME BD SONG
+https://tplay.live/originals/bengali-beats/index.m3u8
+
+#EXTINF:-1,ALL TIME MOVIES
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+#EXTINF:-1,ALL TIME BANGLA MOVIES
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv_news.png" group-title="BANGLADESH", BTV News
 https://padmaonline.duckdns.org:8088/BTV_News/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv_ctg.png" group-title="BANGLADESH", BTV Chattogram
@@ -439,6 +479,452 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ISLAMIC CHANNELS",Madani Tv
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ISLAMIC CHANNELS",Sunnah Tv
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+#EXTINF:-1,MADANI TV URDU
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
+
+#EXTINF:-1,QURAN TV
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSBGhSxcx_g8pn4JXCmsEFnD75CiPMdcFtAG5N20bEnEC5eUsTWQSllk&s=10" group-title="Islamic",Taqbeer Tv
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVmiW9annZUDjqhSrL-jXEw_8SlORcA8aQcdCpNn9VAgqSnSnglkWnd56&s=10" group-title="Islamic",Huda Tv
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
+#https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
+
+
+#EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
+#https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
+#https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
+https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
+https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
+https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
+
+
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
+https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
+http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+
+
+
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
+#http://c1.frsports.info/Asia019/tracks-v1a1/mono.m3u8
+https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
+http://175.107.244.52:4456/play/a06z/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlmXBfv0wmQzx3xSK8s2KuL6Mvm6OC1WTHVq6HDpn2IVY34TGprkvzxsY&s=10" group-title="Sports",Fast Sports
+http://66.102.120.18:8000/play/a05f/index.m3u8
+
+
+
+#EXTINF:-1, PREMIER SPORTS 1
+https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PREMIER SPORTS 2
+https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SUPER SPORTS cricket
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1317.m3u8
+#EXTINF:-1, SUPER SPORTS football
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1064.m3u8
+
+#EXTINF:-1, SUPER SPORTS premier league
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/451.m3u8
+#EXTINF:-1, la Liga tv
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, DD SPORTS
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1359.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 1
+https://balance.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="beIN Sports MENA English 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-1.png" group-title="OTHERS",beIN Sports MENA English 1
+https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-2.png" group-title="OTHERS",beIN Sports MENA English 2
+https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="beIN Sports MENA English 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-3.png" group-title="OTHERS",beIN Sports MENA English 3
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3906.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="beIN Sports MENA 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-1.png" group-title="OTHERS",beIN Sports MENA 1
+https://freelivtv.xyz/stream4k/stream.php?id=6920
+#EXTINF:-1 tvg-id="92" tvg-name="beIN Sports MENA 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-2.png" group-title="OTHERS",beIN Sports MENA 2
+https://freelivtv.xyz/stream4k/stream.php?id=6921
+#EXTINF:-1 tvg-id="93" tvg-name="beIN Sports MENA 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-3.png" group-title="OTHERS",beIN Sports MENA 3
+https://freelivtv.xyz/stream4k/stream.php?id=6904
+#EXTINF:-1 tvg-id="94" tvg-name="beIN Sports MENA 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-4.png" group-title="OTHERS",beIN Sports MENA 4
+https://freelivtv.xyz/stream4k/stream.php?id=6923
+#EXTINF:-1 tvg-id="95" tvg-name="beIN Sports MENA 5" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-5.png" group-title="OTHERS",beIN Sports MENA 5
+https://freelivtv.xyz/stream4k/stream.php?id=6924
+#EXTINF:-1 tvg-id="96" tvg-name="beIN Sports MENA 6" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-6.png" group-title="OTHERS",beIN Sports MENA 6
+https://freelivtv.xyz/stream4k/stream.php?id=6925
+#EXTINF:-1 tvg-id="97" tvg-name="beIN Sports MENA 7" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-7.png" group-title="OTHERS",beIN Sports MENA 7
+https://freelivtv.xyz/stream4k/stream.php?id=6926
+#EXTINF:-1 tvg-id="98" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-premium-1.png" group-title="OTHERS",beIN Sports 1 tr
+https://freelivtv.xyz/stream4k/stream.php?id=1257
+#EXTINF:-1 tvg-id="99" tvg-name="beIN Sports MENA Premium 2" tvg-logo="logodaddy.webp" group-title="Others",beIN Sports MENA 2 tr
+https://freelivtv.xyz/stream4k/stream.php?id=1258
+#EXTINF:-1 tvg-id="100" tvg-name="beIN Sports MENA Premium 3" tvg-logo="logodaddy.webp" group-title="Others",beIN Sports 3 tr
+https://freelivtv.xyz/stream4k/stream.php?id=1259
+#EXTINF:-1 tvg-id="494" tvg-name="beIN Sports MAX 4 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-4-france.png" group-title="FRANCE",beIN Sports 8
+https://freelivtv.xyz/stream4k/stream.php?id=6927
+#EXTINF:-1 tvg-id="495" tvg-name="beIN Sports MAX 5 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-5-france.png" group-title="FRANCE",beIN Sports 9
+https://freelivtv.xyz/stream4k/stream.php?id=6919
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports 4 tr
+https://freelivtv.xyz/stream4k/stream.php?id=1260
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports France 1
+https://freelivtv.xyz/stream4k/stream.php?id=1263
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports france 2
+https://freelivtv.xyz/stream4k/stream.php?id=1264
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports france 3
+https://freelivtv.xyz/stream4k/stream.php?id=1265
+
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 4 fr
+https://freelivtv.xyz/stream4k/stream.php?id=1266
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 5 fr
+https://freelivtv.xyz/stream4k/stream.php?id=1267
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 6 fr
+https://freelivtv.xyz/stream4k/stream.php?id=1268
+
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 7 fr
+https://freelivtv.xyz/stream4k/stream.php?id=1269
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports 8 fr
+https://freelivtv.xyz/stream4k/stream.php?id=1270
+
+
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports 9 fr
+https://freelivtv.xyz/stream4k/stream.php?id=1271
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD Extra
+https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",ESPN
+https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",LaLiga tv(DAZN)
+https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
+#https://NadimTV.short.gy/NadimTV/247168/Index.m3u8
+https://aynapubluc.vercel.app/api/stream/a3d48c46-7902-45e2-abf9-0fab60c4d117.m3u8
+
+
+
+
+
+#EXTINF:-1,TEN SPORTS HD
+https://freelivtv.xyz/stream4k/stream.php?id=472286
+
+#EXTINF:-1,astro cricket
+https://freelivtv.xyz/stream4k/stream.php?id=472272
+
+
+
+#EXTINF:-1, SKY SPORTS 1
+https://NadimRazaTV.short.gy/TheSkySports1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",SkySports 2 New Zealand
+https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SKY SPORTS 3
+http://135.125.238.26:8080/catena-36-1149992-streamer-nz_sky_sport_3/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",SuperSports Cricket
+https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6650.m3u8
+#EXTINF:-1, SSC 2
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6652.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 3
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6653.m3u8
+
+#EXTINF:-1,SSC 4
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6654.m3u8
+#EXTINF:-1,SSC 5
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6655.m3u8
+Sky sports all channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="",VE- uk - sky sport premier league
+https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
+
+---------------------------
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="",VEsky sport football
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="",VE-1uk-skysporttennis
+https://freelivtv.xyz/stream4k/stream.php?id=6566
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="",VEsky sport main
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3995.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="",VE-1UK - Sky Sport Mix (sv3-CDN)
+https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="",VE-uk-skysportcricket
+https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="",VE-1cdn - uk-skysportaction
+https://freelivtv.xyz/stream4k/stream.php?id=774
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="",VE-uk-skysportarena
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1648.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="",VE-1uk-skysportgolf
+https://freelivtv.xyz/stream4k/stream.php?id=770
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="",VE-uk-skysportf1
+http://fortv.cc:8080/live/clarencekingrh@hotmail.com/pKgSdl4ZFX/53704.m3u8
+
+-------------------------------------
+---------##৳#৳########################
+#EXTINF:-1,WWEE
+https://smart.bengaldigital.live/WWE/index.m3u8
+
+
+#EXTINF:-1,FOX sports 501
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+#EXTINF:-1,DEZAN 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="",VE-DE - DAZN laliga
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4957.m3u8
+#EXTINF:-1, LI LIGA TV HD
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5009.m3u8
+
+
+#EXTINF:-1, rush sports 2
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1110/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1, RUSH SPORTS
+https://tiger-hub.vercel.app/Rush_hour_Sports/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:0 group-title="SPORTS" ,Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:0 group-title="SPORTS" ,Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORTS" ,Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Europe  Sports 2 HD
+http://185.189.225.157/EuroSport2/index.m3u8
+
+#EXTINF:0 group-title="SPORTS" ,ČT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-1
+https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-2
+https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-3
+https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
+http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 2
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sport",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/2560px-%C5%A0port_logo.svg.png" group-title="Sport",RTVS Šport
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
+http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Sport",JOJ Šport 2
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+
+#EXTINF:-1,Hub Sports 4
+https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports
+https://tiger-hub.vercel.app/TYC_Sports-Argentina/tracks-v1a1/mono.m3u8
+
+
+#EXTM3U
+
+
+===========================================LIVE MATCHES============================================================
+
+#EXTINF:-1, see sports 1
+https://tiger-hub.vercel.app/SPORT-ZONE/See-Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, see sports 2
+https://tiger-hub.vercel.app/SPORT-ZONE/See-Sports-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, see sports 3
+https://tiger-hub.vercel.app/SPORT-ZONE/See-Sports-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, 4 sports
+https://tiger-hub.vercel.app/SPORT-ZONE/4Sports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, ld sports
+https://tiger-hub.vercel.app/SPORT-ZONE/LD_Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, cablenet sports 1
+https://tiger-hub.vercel.app/SPORT-ZONE/Cablenet_Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, cablenet sports 2
+https://tiger-hub.vercel.app/SPORT-ZONE/Cablenet_Sports-2/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+#EXTINF:-1,TNT SPORTS 1 🇺🇸
+https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TNT SPORTS 2 🇺🇸
+https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TNT SPORTS 3 🇺🇸
+https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="",ve-tnt4
+https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="",VE-TSN 1
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="",VE-TSN 2
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="",VE-TSN 3
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="",VE-TSN 4
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="",VE-TSN 5
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1,ALKASS 1
+https://tiger-hub.vercel.app/Al-kass-Sports/1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ALKASS 2
+https://tiger-hub.vercel.app/Al-kass-Sports/2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ALKASS 3
+https://tiger-hub.vercel.app/Al-kass-Sports/3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ALKASS 4
+https://tiger-hub.vercel.app/Al-kass-Sports/4/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, SPORTS TV 1
+https://tiger-hub.vercel.app/Sportv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SPORTS TV 2
+https://tiger-hub.vercel.app/Sport.tv-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SPORTS TV 3
+https://tiger-hub.vercel.app/Sport.tv-3/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1,K SPORTS 1
+https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,K SPORTS 2
+https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,K SPORTS 3
+https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,ESPN
+https://tiger-hub.vercel.app/SPORT-ZONE/ESPN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ESPN 2
+https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ESPN 3
+https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
 
 
 
