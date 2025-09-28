@@ -109,7 +109,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_24.png" group-title="BANGLADESH",Channel 24
-https://ch24cdn.ncare.live/channel24/ch24office/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/GTV.png" group-title="BANGLADESH",GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
@@ -141,8 +141,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Bangla_tv.png" group-title="BANGLADESH",Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Duronto_TV.png" group-title="BANGLADESH",Duronto TV
-http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nagorik_TV.png" group-title="BANGLADESH",Nagorik TV
 https://padmaonline.duckdns.org:8088/restream4/index.m3u8
@@ -238,9 +236,69 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
 #PK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/hum.stream/playlist.m3u8
+http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/hum_europe.png",HUM TV Europe
 https://newsprotalhub.xyz/candy/vstream.php?id=7c21a8ade135&e=.m3u8
+
+#EXTINF:-1,EXPRESS HD PK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/expresspk.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Aur Life HD
+http://124.109.47.101/hls/stream1.m3u8
+
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",ARY digital HD
+http://66.102.120.18:8000/play/a030/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Geo Kahani
+http://66.102.120.18:8000/play/a064/index.m3u8
+
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",PTV Home
+http://66.102.120.18:8000/play/a04r/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",PTV News
+http://66.102.120.18:8000/play/a04s/index.m3u8
+
+#EXTINF:-1,A PLUS
+http://182.176.185.207:7500/play/a0dc/index.m3u8
+
+#EXTINF:-1,SEE TV PK
+http://66.102.120.18:8000/play/a03y/index.m3u8
+
+#EXTINF:-1,NOOR TV PK
+http://66.102.120.18:8000/play/a04m/index.m3u8
+
+#EXTINF:-1,GEO TEZ
+http://66.102.120.18:8000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png" group-title="Entertainment",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#jagobd
+
+
+#EXTINF:-1,ARY ZINDEGY
+http://66.102.120.18:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="",Hum TV
+http://66.102.120.18:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-id="406435b761ad" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="",Hum Masala
+http://66.102.120.18:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-id="598a5e7df0bd" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="",Hum Sitarey
+http://66.102.120.18:8000/play/a05i/index.m3u8
+
+#EXTINF:-1,HUM TV NEWS
+http://66.102.120.18:8000/play/a05e/index.m3u8
+
+
+
+
 
 #STAR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KOLKATA",Star Jalsha
