@@ -168,19 +168,13 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 #Sports
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Sports 1 HD
-https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
-https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
+https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Sports 3 HD
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
-https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS",Star Sports 1 HD
-http://xtv.ooo:8080/danyear12/am809100/167575
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" group-title="SPORTS",Star Sports Select 1 HD
-http://tv.bdiptv.store/live/restream/restreamkak/88.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png" group-title="SPORTS",Star Sports Select 2 HD
-http://tv.bdiptv.store/live/restream/restreamkak/15246.m3u8
+https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
