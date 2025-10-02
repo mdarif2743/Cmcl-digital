@@ -44,8 +44,8 @@ https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
 
 #EXTINF:-1,ALL TIME BANGLA MOVIES
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-
-
+#EXTINF:-1,MOTO PALTU
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
