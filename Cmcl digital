@@ -319,7 +319,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="HINDI",Star Plus HD
-https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+http://51.15.7.9:3141/starplus/index.m3u8
 
 #EXTINF:-1,STAR PLUS
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/276912.m3u8
@@ -342,13 +342,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+http://51.15.7.9:3141/stargold2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
 http://89.187.189.98/STARMOVIESHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies
-https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
+http://51.15.7.9:3141/starmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
