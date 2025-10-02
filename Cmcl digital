@@ -227,7 +227,7 @@ https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Sports 3 HD
-https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
+http://51.15.7.9:3141/ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 
@@ -332,7 +332,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
 #EXTINF:-1, tvg-id="29" tvg-name="IN | STAR GOLD " tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png"group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD
-https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
+http://51.15.7.9:3141/stargold/index.m3u8
 
 
 
@@ -406,7 +406,7 @@ https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/22_7782.jpg" group-title="HINDI", Sony Sab HD
 https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="HINDI", Sony Max HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+http://51.15.7.9:3141/max/index.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/2_7785.jpg" group-title="HINDI", Sony Max 2
 https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="HINDI", Sony Kal
