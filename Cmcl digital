@@ -755,7 +755,7 @@ https://cdn-2.pishow.tv/live/226/226_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/poster_20210706_165834.jpg" group-title="Entertainment", Mastiii
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+https://tvsen6.aynaott.com/mastimusic/index.m3u8?e=1753741252&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b420c2e2a4dbadaab996a8066d9c7bf7
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23111/9xm/poster_20240521_223853.jpg" group-title="Music",9XM
 https://tiger-hub.vercel.app/MUSIC-ZONE/9XM/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="167" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="",B4u Music
