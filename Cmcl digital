@@ -53,7 +53,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv_news.png" group-title="BANGLADESH", BTV News
 http://nayatv.ydns.eu:80/xfireflix/flixfire/13236.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv_ctg.png" group-title="BANGLADESH", BTV Chattogram
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
+https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=53499e93cb788d175ff8df88e1fe6fa6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="BANGLADESH", Sangsad BANGLADESH Television
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ATN_Bangla.png" group-title="BANGLADESH",ATN Bangla
@@ -100,8 +100,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ATN_News.png" group-title="BANGLADESH",ATN News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
-
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
+https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1753741234&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=02fd6e57a6bf88edca9b0181de78f985
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Mohona_tv.png" group-title="BANGLADESH",Mohona Television
@@ -111,13 +111,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/somoy_tv.png" group-title="BANGLADESH",Somoy TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
-
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1753741233&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=957616deb5a66fcc4b0b16779ba884ef
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Independent_Tv.png" group-title="BANGLADESH",Independent Television
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1753741234&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=435c0bee38d85666ecb99a46104e2983
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Maasranga_Tv.jpg" group-title="BANGLADESH",Maasranga Television
@@ -129,8 +129,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_24.png" group-title="BANGLADESH",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+https://tvsen6.aynaott.com/channel24/index.m3u8?e=1753741233&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=2efadce9e921bb46592f1898f3dd7c7f
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/GTV.png" group-title="BANGLADESH",GTV
@@ -139,7 +139,9 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekattor_tv.png" group-title="BANGLADESH",Ekattor TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
+https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1753741235&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=4089aa5d18ea48ddd6ff684485bd194c
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Asian_TV.png" group-title="BANGLADESH",Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -153,7 +155,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Jamuna_TV.png" group-title="BANGLADESH",Jamuna TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1753741235&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=966db14cbf6ccde173bb7f727e59e303
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Deepto_TV.png" group-title="BANGLADESH",Deepto TV
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
@@ -161,10 +166,14 @@ https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/DBC_News.png" group-title="BANGLADESH",DBC News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1753741234&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=69c80405fddae6c66043c7456b5a3e2c
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/News24.png" group-title="BANGLADESH",News24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+https://tvsen6.aynaott.com/news24/index.m3u8?e=1753741235&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=f82265bb68153ee9609f9cc11ff9fa87
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Bangla_tv.png" group-title="BANGLADESH",Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
@@ -181,7 +190,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://hand.top10wifibhaluka.com/in24/watch.m3u8?cid=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&chunks=45yNuTtYUFGi4OLhllWnIeKMnwvibTwy7mKzzpUpKc-rh9cBznxDr-qpojD-QCYCiAHwkL02Qz41kCBdqFDI_a7y5tLRt0PP1hMdpYXRgCXB3HeH0Tlxd4eofSO5QRWLTtYnYwUtZX6VHO0j-mk3Fr3QfakUDQO5HD2JPkM027v2pabhWMsm9Oy6gyM2q4hahMXGGmhaTmoYbD2YwTJwM7kQ6fD1FD9RY9VhqqnF5MPAy1O2YOU8LXCy46n_ikFV&vtoken=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekhon.png" group-title="BANGLADESH",Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1753741234&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=94901c302e7d29c78112075d56326f77
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports
 #http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
@@ -571,7 +582,7 @@ https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Discovery_HD.png" group-title="Documentary",Discovery SD
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream/98.m3u8
+https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=34d7b0c19081575434647d295f60ea41
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY SCIENCE
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY TURBO
@@ -676,7 +687,7 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fdf43V/20240809-081051.png" group-title="HINDI MOVIES", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
-https://aynapubluc.vercel.app/api/stream/b80579f2-22d3-4b12-881e-60139810a791.m3u8
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1753741248&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9f6bd64fef29a5b9fa302efa045f3028
 
 
 
@@ -695,6 +706,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U KADAK
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Music", B4U MUSIC
+https://tvsen6.aynaott.com/b4umusic/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1df77761ea63b6181d11e016ab05f6f0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title="Entertainment", ENTEER TEN BANGLA
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -962,8 +975,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-
+#https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5fca30251e531337b5339bbba78bd449
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD Extra
@@ -982,7 +995,7 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
 #https://NadimTV.short.gy/NadimTV/247168/Index.m3u8
-https://aynapubluc.vercel.app/api/stream/a3d48c46-7902-45e2-abf9-0fab60c4d117.m3u8
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741223&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a2744ce4938f1e1c1c6ace37acf30604
 
 
 
