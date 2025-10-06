@@ -604,7 +604,7 @@ http://89.187.189.98/BIGMAGIC/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png" group-title="HINDI MOVIES", & FLIX HD
-http://filex.me:8080/live/444476/444476/55.m3u8
+http://195.181.169.162/AND_FLIX_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
