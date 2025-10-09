@@ -603,7 +603,7 @@ https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglahd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1760040473&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=1e1dda17487d41ff218e64f51484fb57
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
