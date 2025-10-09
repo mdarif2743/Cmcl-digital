@@ -360,7 +360,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 
 #EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-name="Aakaash Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="Channels",Aakaash Bangla TV
-https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1760039689&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e0ae3f6e5272a3e2a939ac783b1a7582
+https://cdn-4.pishow.tv/live/969/969_1.m3u8
 
 #EXTINF:-1 tvg-id="8dc64f21-7dc8-4a41-a583-ddec9f112aeb" tvg-name="R Plus" tvg-logo="https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667" group-title="Channels",R Plus
 https://tvsen6.aynascope.net/Rplus/index.m3u8?e=1760039690&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=cb6e2eddcc58970b82af26736d2d3214
@@ -409,7 +409,7 @@ https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="HINDI",Star Plus HD
@@ -509,7 +509,7 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 
 #Sony
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/8_7790.jpg" group-title="KOLKATA", Sony Aath
-https://livecdn-bostaflix.global.ssl.fastly.net/api/b6a720edea/playlist.m3u8
+https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
 https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/Sony_WAH_logo.png" group-title="HINDI", Sony Wah
@@ -606,7 +606,7 @@ https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1760040473&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=1e1dda17487d41ff218e64f51484fb57
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, ZEE CAFE HD
 #http://195.181.169.162/ZEE_CAFE_HD/index.m3u8?token=test
