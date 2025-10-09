@@ -50,7 +50,7 @@ https://tplay.live/playlist/kids/motu-patlu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
-https://tvsen6.aynaott.com/btvhd/index.m3u8?e=1753741215&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a4bfbc76d204a2593be64e3241abae09
+https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1760039689&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=b8b680f0a1ba98e3e062f9026890ba94
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv_news.png" group-title="BANGLADESH", BTV News
 http://nayatv.ydns.eu:80/xfireflix/flixfire/13236.ts
@@ -360,37 +360,37 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 
 #EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-name="Aakaash Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="Channels",Aakaash Bangla TV
-https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8?e=1753741215&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=e9f0e684705f8f159588c0a0da465695
+https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1760039689&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e0ae3f6e5272a3e2a939ac783b1a7582
 
 #EXTINF:-1 tvg-id="8dc64f21-7dc8-4a41-a583-ddec9f112aeb" tvg-name="R Plus" tvg-logo="https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667" group-title="Channels",R Plus
-https://tvsen6.aynaott.com/Rplus/index.m3u8?e=1753741215&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fe2b0a589fd87203cb06cdead0bf57f0
+https://tvsen6.aynascope.net/Rplus/index.m3u8?e=1760039690&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=cb6e2eddcc58970b82af26736d2d3214
 
 #EXTINF:-1 tvg-id="28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77" tvg-name="R Plus Gold" tvg-logo="https://s3.aynaott.com/storage/5acec30ce56099ac991cc2ed289aa920" group-title="Channels",R Plus Gold
-https://tvsen6.aynaott.com/RplusGold/index.m3u8?e=1753741215&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=0d6cb6731dcedb70c429efad155fd510
+https://tvsen6.aynascope.net/RplusGold/index.m3u8?e=1760039691&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=79c347e1889995cf7d321cdeacc1c7b3
 
 #EXTINF:-1 tvg-id="3aa4d27d-91e1-4afe-a6b5-de35beefae4f" tvg-name="Rupshi Bangla" tvg-logo="https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79" group-title="Channels",Rupshi Bangla
-https://tvsen6.aynaott.com/RupshiBangla/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=803030fb942fc2209c609a555cf33011
+https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1760039691&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=45d6af50c0657fba634a55c0ab3bdd75
 
 #EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="Sangeet Bangla" tvg-logo="https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558" group-title="Channels",Sangeet Bangla
-https://tvsen6.aynaott.com/SangeetBangla/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a3d5e729196bb848ac702476d1c1f575
+https://tvsen6.aynascope.net/SangeetBangla/index.m3u8?e=1760039692&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=aad073231b09cf38495e6ef9ddb7b040
 
 #EXTINF:-1 tvg-id="c8080032-034e-4f04-b1ee-0847a6e62a41" tvg-name="News Time Bangla" tvg-logo="https://s3.aynaott.com/storage/a4026bfc5928a4abd66c10a5b8d07eba" group-title="Channels",News Time Bangla
-https://tvsen6.aynaott.com/NewsTime/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b73afd34a3974007a5cedf6219cf0b7a
+https://tvsen6.aynascope.net/NewsTime/index.m3u8?e=1760039693&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=c08b705032b8bc065eff95b8bff1e189
 
 #EXTINF:-1 tvg-id="7141c05b-97cd-4dd1-9584-423c7a5ce13d" tvg-name="Republic Bangla" tvg-logo="https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c" group-title="Channels",Republic Bangla
-https://tvsen5.aynaott.com/R_Bangla/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9ff0ce48f552dd371ddd63aa011d7539
+https://tvsen5.aynascope.net/R_Bangla/index.m3u8?e=1760039693&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=8f572818e267723683be73b624fb4bb6
 
 #EXTINF:-1 tvg-id="f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6" tvg-name="TV 9 Bangla" tvg-logo="https://s3.aynaott.com/storage/9abc522e7d57971c09e6a7c62714a09d" group-title="Channels",TV 9 Bangla
-https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=c65b7a3f43ea6e47d0d08c28fe6b6528
+https://tvsen6.aynascope.net/TV9Bangla/index.m3u8?e=1760039694&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=9736ced2779f9e38f306d0faaf59de29
 
 #EXTINF:-1 tvg-id="71b599fa-1284-46c3-a2de-9eaab38d74de" tvg-name="Zee 24 Ghanta" tvg-logo="https://s3.aynaott.com/storage/8f72b7b45026c70cf2dd23aa187f5d45" group-title="Channels",Zee 24 Ghanta
-https://tvsen6.aynaott.com/zee24/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=46e0e2437efd18adfa020eab53d51e9b
+https://tvsen6.aynascope.net/zee24/index.m3u8?e=1760039695&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=87581b8aecd40436b39adb60e21eb11a
 
 #EXTINF:-1 tvg-id="247cf723-3c1d-47bc-b765-64da2623a297" tvg-name="News India 24x7" tvg-logo="https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458" group-title="Channels",News India 24x7
-https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=bc129d451d7d69788b4cb016b12a2237
+https://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8?e=1760039695&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=071dcc48378fad87140edaf4de10da0a
 
 #EXTINF:-1 tvg-id="262789f8-92af-4738-986c-c5deafeef997" tvg-name="kolkata TV" tvg-logo="https://s3.aynaott.com/storage/74e02cf4a1fbd11e78275d819779e7e1" group-title="Channels",kolkata TV
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a64274afbdb3044d491194dcc48a037d
+https://tvsen6.aynascope.net/kolkatatv/index.m3u8?e=1760039696&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=21dbd8e3b774c745de6855e07c895a99
 
 
 
@@ -747,7 +747,7 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fdf43V/20240809-081051.png" group-title="HINDI MOVIES", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1753741248&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9f6bd64fef29a5b9fa302efa045f3028
+https://tvsen6.aynascope.net/GoldminesBollywood/index.m3u8?e=1760039716&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=a74fd663d55ff83120e4c0da8202fd9d
 
 
 
@@ -766,7 +766,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U KADAK
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Music", B4U MUSIC
-https://tvsen6.aynaott.com/b4umusic/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1df77761ea63b6181d11e016ab05f6f0
+https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1760039719&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=67821ff748debebf775126c95448bcd4
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title="Entertainment", ENTEER TEN BANGLA
@@ -908,7 +908,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 #https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
-https://tvsen6.aynascope.net/sports18aa/index.m3u8?e=1759663458&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=fa086dff95cdc88c5551a35108edb817
+
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
 https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
@@ -1036,7 +1036,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
 #https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5fca30251e531337b5339bbba78bd449
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1760039929&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=51a3b5678414efffdbaa8711bf9c1ae8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD Extra
