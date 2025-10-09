@@ -69,7 +69,7 @@ https://tvsen6.aynascope.net/channeli/index.m3u8?e=1760037515&u=7a511720-17fc-44
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekushey_Television.png" group-title="BANGLADESH",Ekushey Television
 #https://ekusheyserver.com/etvlivesn.m3u8
-https://tvsen6.aynascope.net/etv/index.m3u8?e=1760037519&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=b59b909d51187da00eff4af0d6c9e739
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/NTV.png" group-title="BANGLADESH",NTV
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
@@ -170,7 +170,7 @@ https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1760037534&u=7a511720-17fc-44
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Deepto_TV.png" group-title="BANGLADESH",Deepto TV
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-https://tvsen5.aynascope.net/DeeptoTVHD/index.m3u8?e=1760037520&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=2d988cc533eba52dfa3032b73d6c20e5
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/DBC_News.png" group-title="BANGLADESH",DBC News
