@@ -508,7 +508,10 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 
 #Sony
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/8_7790.jpg" group-title="KOLKATA", Sony Aath
-https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
+https://allinonereborn.xyz/livtest598/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fhdntl%3Dexp%3D1760458460~acl%3D%252f%2A~id%3D5e099c8d307345dfad9d096676e472ad-1760355005371~data%3Dhdntl~hmac%3D6fdfbc4bb6dd6db96df8507d3c6a627f07eac1908362034ed6b36fc84019aada%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAADcdu5oAAAAAJKIC9dHxO64TctCbleugGZqQlr0Lc0iA7YvW0Yn%252f42oat4QgCKrqDse4F94Mu2K4yG6JxxaMhPy%26aka_media_format_type%3Dhls
+
+
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
 https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/Sony_WAH_logo.png" group-title="HINDI", Sony Wah
