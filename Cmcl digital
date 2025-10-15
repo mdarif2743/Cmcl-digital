@@ -410,7 +410,7 @@ https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="Indian bangla",Jalsha Movie sd
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+http://v5on.site/token/stream.php?id=1487892&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
@@ -469,11 +469,11 @@ http://51.15.7.9:3141/starutsavmovies/index.m3u8
 #Colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPswrCmzOk6cjMYZyAc4b9UIZEp5FXqXeulQ&s" group-title="KOLKATA",Colors Bangla HD
 #https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
+http://v5on.site/token/stream.php?id=1487889&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://66.102.120.18:8000/play/a01a/index.m3u8
-#https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
@@ -483,7 +483,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="HINDI",Colors TV HD
 #http://195.181.169.162/COLORS_HD/index.m3u8?token=test
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+http://v5on.site/token/stream.php?id=1483914&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="HINDI",Colors TV HD Link 2 uk
@@ -491,20 +491,20 @@ http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/COLORS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+http://v5on.site/token/stream.php?id=1484536&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
 #https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
 #http://195.181.169.162/COLORS_CINEPLEX_HD/index.m3u8?token=test
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+http://v5on.site/token/stream.php?id=1484040&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+http://v5on.site/token/stream.php?id=1545842&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
@@ -514,7 +514,7 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 #Sony
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/8_7790.jpg" group-title="KOLKATA", Sony Aath
 #https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
-https://allinonereborn.xyz/livtest598/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fhdntl%3Dexp%3D1760458460~acl%3D%252f%2A~id%3D5e099c8d307345dfad9d096676e472ad-1760355005371~data%3Dhdntl~hmac%3D6fdfbc4bb6dd6db96df8507d3c6a627f07eac1908362034ed6b36fc84019aada%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAADcdu5oAAAAAJKIC9dHxO64TctCbleugGZqQlr0Lc0iA7YvW0Yn%252f42oat4QgCKrqDse4F94Mu2K4yG6JxxaMhPy%26aka_media_format_type%3Dhls
+http://v5on.site/token/stream.php?id=1487905&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
@@ -610,7 +610,7 @@ https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglahd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1760040473&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=1e1dda17487d41ff218e64f51484fb57
+http://v5on.site/token/stream.php?id=1487887&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
