@@ -468,8 +468,8 @@ http://51.15.7.9:3141/starutsavmovies/index.m3u8
 
 #Colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPswrCmzOk6cjMYZyAc4b9UIZEp5FXqXeulQ&s" group-title="KOLKATA",Colors Bangla HD
-#https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
-http://v5on.site/token/stream.php?id=1487889&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
+https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://66.102.120.18:8000/play/a01a/index.m3u8
@@ -482,8 +482,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="HINDI",Colors TV HD
-#http://195.181.169.162/COLORS_HD/index.m3u8?token=test
-http://v5on.site/token/stream.php?id=1483914&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
+http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="HINDI",Colors TV HD Link 2 uk
@@ -496,8 +496,8 @@ http://v5on.site/token/stream.php?id=1484536&token=4Ug5yYda87laHRTgD1m2wfKJqizPs
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
 #https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
-#http://195.181.169.162/COLORS_CINEPLEX_HD/index.m3u8?token=test
-http://v5on.site/token/stream.php?id=1484040&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
+http://195.181.169.162/COLORS_CINEPLEX_HD/index.m3u8?token=test
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
@@ -610,7 +610,7 @@ https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglahd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-http://v5on.site/token/stream.php?id=1487887&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
+
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
