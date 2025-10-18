@@ -914,7 +914,7 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-#https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
+#http://116.90.120.149:8000/play/a0cs/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
