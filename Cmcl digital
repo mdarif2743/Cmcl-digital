@@ -4,8 +4,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-1.jpg" group-title="#IP TV",Padma Cable Vision (BDIX)
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-2.jpg" group-title="#IP TV",PCV (MPEG-TS)
-https://padmaonline.duckdns.org:8088/pcv/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-2.jpg" group-title=" LIVE SPORTS
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD ban vs wi ⚾
 http://mm@ranapk.site/FUCK/play.php?id=https://in-mc-fdlive.fancode.com/mumbai/137700_english_hls_625c392f2934863ta-di_h264/index.m3u8
@@ -504,7 +504,7 @@ http://195.181.169.162/COLORS_CINEPLEX_HD/index.m3u8?token=test
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
-http://v5on.site/token/stream.php?id=1545842&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
+http://195.181.169.162/COLORS_INFINITY_HD/index.m3u8?token=test
 
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
@@ -1043,7 +1043,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
 #https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1760039929&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=51a3b5678414efffdbaa8711bf9c1ae8
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD Extra
