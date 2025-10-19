@@ -20,7 +20,7 @@ http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167581
 http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH4VBSB9lGpTA/company-logo_200_200/company-logo_200_200/0/1630668356175?e=2147483647&v=beta&t=YHP4YFiZr_hR9Xyu8PlNcxfCbr1PTYjjqPw5zTzsyfU", Toffee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png", T SPORTS HD
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 
@@ -30,10 +30,10 @@ http://144.217.76.135:8082/sami/index.m3u8
 http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167593
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", live Cricket⚾⚾
 https://lchdvideo.live/willowcricket.m3u8
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-http://edge.zerobuff.com/bb77a5a232f8d0595ad1e94adfae31e6f6b499bd25457cbe6217bbbbcd75e34e485b1fe223f9c13162b92c2f64a1738780747a4726e99036fd357338f3bf9bdd9bb4a6dc8cc8d7c824a7add8b77ef5d6ce3f7038790c8b5d8818/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ English
-http://vm.himelop-pro.top/bdvin/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus ⚾⚾ link 2
+https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus⚾⚾
+http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ hindi
 http://duchiduchitoreduchi.himelop-pro.top/ten3-himu/tracks-v1a1/mono.m3u8
 
