@@ -295,7 +295,7 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
 #PK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
-http://app.hughag.store/api/4518a8c92f/playlist.m3u8
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/hum_europe.png",HUM TV Europe
 https://newsprotalhub.xyz/candy/vstream.php?id=7c21a8ade135&e=.m3u8
 
