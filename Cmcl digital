@@ -7,6 +7,11 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1,LIVE SPORTS
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
+
+#EXTINF:-1,LIVE SPORTS
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD ban vs wi ⚾
 http://mm@ranapk.site/FUCK/play.php?id=https://in-mc-fdlive.fancode.com/mumbai/137700_english_hls_625c392f2934863ta-di_h264/index.m3u8
 
@@ -1134,7 +1139,7 @@ https://smart.bengaldigital.live/WWE/index.m3u8
 
 
 #EXTINF:-1,FOX sports 501
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/6651.m3u8
 #EXTINF:-1,DEZAN 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="",VE-DE - DAZN laliga
