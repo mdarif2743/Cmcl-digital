@@ -8,6 +8,11 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251010%2Fmycolive-thumblivepng-1760114388682.webp&w=3840&q=30" group-title="Live",ICC Women’s World Cup Live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+
+
 #EXTINF:-1,LIVE SPORTS
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 
@@ -17,8 +22,8 @@ http://mm@ranapk.site/FUCK/play.php?id=https://in-mc-fdlive.fancode.com/mumbai/1
 
 
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD ban vs afg ⚾
-http://147.93.154.65/Bein3/index.m3u8
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD ban vs wi ⚾
+http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", world cup ⚾⚾
 http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167581
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE football EPL ⚽ 
@@ -31,8 +36,7 @@ http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", pk vs sa
 http://c1.frsports.info/Dashpk.cod/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", world cup ⚾⚾
-http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167593
+
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", live Cricket⚾⚾
 https://lchdvideo.live/willowcricket.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus ⚾⚾ link 2
