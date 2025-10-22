@@ -423,7 +423,7 @@ https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="HINDI",Star Plus HD
-http://51.15.7.9:3141/starplus/index.m3u8
+http://116.90.120.149:8000/play/a0b9/index.m3u8
 
 #EXTINF:-1,STAR PLUS
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/276912.m3u8
@@ -433,7 +433,7 @@ http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/276912.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 
 #EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="Movies",Star Gold Thrills
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+http://116.90.120.149:8000/play/a0c0/index.m3u8
 
 #EXTINF:-1, tvg-id="29" tvg-name="IN | STAR GOLD " tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png"group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD
 http://51.15.7.9:3141/stargold/index.m3u8
@@ -466,11 +466,11 @@ http://89.187.189.98/MOVIESNOWHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="103" tvg-name="IN | STAR UTSAV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR UTSAV HD
-https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
+http://116.90.120.149:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="starutsavmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png" group-title="Movies",Star Utsav Movies
 #https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
-http://51.15.7.9:3141/starutsavmovies/index.m3u8
+http://116.90.120.149:8000/play/a02r/index.m3u8
 
 #Colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPswrCmzOk6cjMYZyAc4b9UIZEp5FXqXeulQ&s" group-title="KOLKATA",Colors Bangla HD
@@ -887,7 +887,7 @@ http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
 #https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
-http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8
+http://116.90.120.149:8000/play/a0bv/index.m3u8
 
 
 
@@ -909,8 +909,8 @@ https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
-https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
-
+#https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
+http://116.90.120.149:8000/play/a0cl/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
@@ -920,7 +920,7 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-#http://116.90.120.149:8000/play/a0cs/index.m3u8
+http://116.90.120.149:8000/play/a0cs/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
@@ -1049,7 +1049,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
 #https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD Extra
@@ -1126,7 +1126,9 @@ https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3995.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="",VE-1UK - Sky Sport Mix (sv3-CDN)
 https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="",VE-uk-skysportcricket
-https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+#https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="",VE-1cdn - uk-skysportaction
 https://freelivtv.xyz/stream4k/stream.php?id=774
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="",VE-uk-skysportarena
