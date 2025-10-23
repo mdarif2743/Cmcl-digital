@@ -292,7 +292,7 @@ https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Sports 3 HD
-http://195.181.169.162:80/TEN_3_HD/index.m3u8?token=test
+http://66.102.120.18:8000/play/a001
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 
