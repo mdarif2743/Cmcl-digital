@@ -2,8 +2,8 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-1.jpg" group-title="#IP TV",Padma Cable Vision (BDIX)
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png" group-title="#IP TV",world cup toffee
+https://bongoflixbd.top/test/live.php?id=match-asiacup&e=.m3u8
 #EXTINF:-1,LIVE SPORTS
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
