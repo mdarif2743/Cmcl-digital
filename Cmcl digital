@@ -92,8 +92,8 @@ http://stvlive.net:8080/ntv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Rtv.png" group-title="BANGLADESH",RTV
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
-http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuak6p2Pit4sCDZ8oBFrIsWI/ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Boishakhi_TV.png" group-title="BANGLADESH",Boishakhi TV
@@ -121,14 +121,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Mohona_tv.png" group-title="BANGLADESH",Mohona Television
-#https://tvsen6.aynaott.com/mohonatv/index.m3u8
-http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuYlkBPsIOChb2scdhLDV9sA/ts
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Bijoy_TV.png" group-title="BANGLADESH",Bijoy TV
-#https://tvsen6.aynaott.com/bijoytv/index.m3u8
-http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuez8UQClM9kWsEqC7G3elYU/ts
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/somoy_tv.png" group-title="BANGLADESH",Somoy TV
@@ -145,8 +145,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuScd6fM0vWolg31udo1X5qc/ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/channel_9.png" group-title="BANGLADESH",Channel 9
-#https://tvsen6.aynaott.com/channel9/index.m3u8
-http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuWoEaQM_cR7pTlT0RNFngjo/ts
+https://tvsen6.aynaott.com/channel9/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_24.png" group-title="BANGLADESH",Channel 24
@@ -199,8 +199,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Bangla_tv.png" group-title="BANGLADESH",Bangla TV
-#https://tvsen6.aynaott.com/banglatv/index.m3u8
-http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuR9Xbo1twnaF7uz8WWgQCd8/ts
+https://tvsen6.aynaott.com/banglatv/index.m3u8
+
 
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nagorik_TV.png" group-title="BANGLADESH",Nagorik TV
 http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuayWhCHwCCEbb2j1i5WuNos/ts
