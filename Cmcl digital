@@ -1,6 +1,10 @@
 # Cmcl-digital
 
 
+
+#EXTINF:-1, BANGLA DRAMA
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6192.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png" group-title="#IP TV",world cup toffee
 https://bongoflixbd.top/test/live.php?id=match-asiacup&e=.m3u8
@@ -92,8 +96,8 @@ http://stvlive.net:8080/ntv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Rtv.png" group-title="BANGLADESH",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
-
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6131.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Boishakhi_TV.png" group-title="BANGLADESH",Boishakhi TV
@@ -170,7 +174,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SA_TV.png" group-title="BANGLADESH",SA TV
-http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuXS9SOSrIHsdNIb_d7SF2xo/ts
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6213.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Global_TV.png" group-title="BANGLADESH",Global Television
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
@@ -203,7 +207,7 @@ https://tvsen6.aynaott.com/banglatv/index.m3u8
 
 
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nagorik_TV.png" group-title="BANGLADESH",Nagorik TV
-http://starter.nvisionbd.net:80/play/idNwBzg1n31AeHgw3joUuayWhCHwCCEbb2j1i5WuNos/ts
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6145.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ananda_TV.png" group-title="BANGLADESH",Ananda TV
@@ -212,7 +216,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nexus_Television.png" group-title="BANGLADESH",NEXUS Television
-https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1753741205&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=81b0a802403aad3437983da189cd9f77
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6200.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekhon.png" group-title="BANGLADESH",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
