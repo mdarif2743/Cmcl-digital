@@ -522,12 +522,12 @@ http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/COLORS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-http://v5on.site/token/stream.php?id=1484536&token=4Ug5yYda87laHRTgD1m2wfKJqizPs0Dx
+https://stalker.tnm3us.workers.dev/2771.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
 #https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
-http://195.181.169.162/COLORS_CINEPLEX_HD/index.m3u8?token=test
+https://stalker.tnm3us.workers.dev/11711.m3u8
 
 
 
@@ -561,7 +561,7 @@ http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/2_7785.jpg" group-title="HINDI", Sony Max 2
 https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="HINDI", Sony Kal
-
+https://stalker.tnm3us.workers.dev/44157.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/6_7791.jpg" group-title="HINDI", Sony Pal
 https://nxtlive.net/sliv/stream.m3u8?id=1000009273|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/10_7793.jpg" group-title="HINDI", Sony Yay
@@ -984,7 +984,7 @@ https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SUPER SPORTS cricket
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1317.m3u8
+https://stalker.tnm3us.workers.dev/12167.m3u8
 #EXTINF:-1, SUPER SPORTS football
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1064.m3u8
 
@@ -1093,7 +1093,7 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
 #https://NadimTV.short.gy/NadimTV/247168/Index.m3u8
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1760037539&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=101d82b824b8091c16a99bbc966f4b51
+https://stalker.tnm3us.workers.dev/30975.m3u8
 
 
 
@@ -1103,7 +1103,7 @@ https://tvsen6.aynascope.net/asports/index.m3u8?e=1760037539&u=7a511720-17fc-44b
 https://freelivtv.xyz/stream4k/stream.php?id=472286
 
 #EXTINF:-1,astro cricket
-https://freelivtv.xyz/stream4k/stream.php?id=472272
+https://stalker.tnm3us.workers.dev/12141.m3u8
 
 
 
