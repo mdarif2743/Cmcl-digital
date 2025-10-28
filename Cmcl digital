@@ -677,8 +677,10 @@ http://89.187.189.98/BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png" group-title="HINDI MOVIES", & FLIX HD
 http://195.181.169.162/AND_FLIX_HD/index.m3u8?token=test
 
-#EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
-https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="sunbangla.in" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6230.png" tvg-name="SUN BANGLA" group-title="BENGALI | TV",SUN BANGLA
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6230.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",TARA BANGLA CINEMA
 http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
