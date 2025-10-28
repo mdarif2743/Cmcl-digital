@@ -1022,63 +1022,57 @@ https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-2.png" group-title="OTHERS",beIN Sports MENA English 2
 https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="beIN Sports MENA English 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-3.png" group-title="OTHERS",beIN Sports MENA English 3
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3906.m3u8
+
 #EXTINF:-1 tvg-id="91" tvg-name="beIN Sports MENA 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-1.png" group-title="OTHERS",beIN Sports MENA 1
-http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6920.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="beIN Sports MENA 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-2.png" group-title="OTHERS",beIN Sports MENA 2
-https://freelivtv.xyz/stream4k/stream.php?id=6921
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6921.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="beIN Sports MENA 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-3.png" group-title="OTHERS",beIN Sports MENA 3
-https://freelivtv.xyz/stream4k/stream.php?id=6904
+
 #EXTINF:-1 tvg-id="94" tvg-name="beIN Sports MENA 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-4.png" group-title="OTHERS",beIN Sports MENA 4
-https://freelivtv.xyz/stream4k/stream.php?id=6923
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6923.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="beIN Sports MENA 5" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-5.png" group-title="OTHERS",beIN Sports MENA 5
-https://freelivtv.xyz/stream4k/stream.php?id=6924
+
 #EXTINF:-1 tvg-id="96" tvg-name="beIN Sports MENA 6" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-6.png" group-title="OTHERS",beIN Sports MENA 6
-https://freelivtv.xyz/stream4k/stream.php?id=6925
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6925.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="beIN Sports MENA 7" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-7.png" group-title="OTHERS",beIN Sports MENA 7
-https://freelivtv.xyz/stream4k/stream.php?id=6926
-#EXTINF:-1 tvg-id="98" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-premium-1.png" group-title="OTHERS",beIN Sports 1 tr
-https://freelivtv.xyz/stream4k/stream.php?id=1257
-#EXTINF:-1 tvg-id="99" tvg-name="beIN Sports MENA Premium 2" tvg-logo="logodaddy.webp" group-title="Others",beIN Sports MENA 2 tr
-https://freelivtv.xyz/stream4k/stream.php?id=1258
-#EXTINF:-1 tvg-id="100" tvg-name="beIN Sports MENA Premium 3" tvg-logo="logodaddy.webp" group-title="Others",beIN Sports 3 tr
-https://freelivtv.xyz/stream4k/stream.php?id=1259
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6926.m3u8
+
 #EXTINF:-1 tvg-id="494" tvg-name="beIN Sports MAX 4 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-4-france.png" group-title="FRANCE",beIN Sports 8
-https://freelivtv.xyz/stream4k/stream.php?id=6927
-#EXTINF:-1 tvg-id="495" tvg-name="beIN Sports MAX 5 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-5-france.png" group-title="FRANCE",beIN Sports 9
-https://freelivtv.xyz/stream4k/stream.php?id=6919
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports 4 tr
-https://freelivtv.xyz/stream4k/stream.php?id=1260
-
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports France 1
-https://freelivtv.xyz/stream4k/stream.php?id=1263
-
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports france 2
-https://freelivtv.xyz/stream4k/stream.php?id=1264
-
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports france 3
-https://freelivtv.xyz/stream4k/stream.php?id=1265
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6927.m3u8
 
 
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 4 fr
-https://freelivtv.xyz/stream4k/stream.php?id=1266
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1257.jpg" tvg-name="BEIN SPORTS 1 | TR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS 1 | TR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1257.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1258.jpg" tvg-name="BEIN SPORTS 2 | TR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS 2 | TR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1258.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1259.jpg" tvg-name="BEIN SPORTS 3 | TR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS 3 | TR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1259.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1260.jpg" tvg-name="BEIN SPORTS 4 | TR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS 4 | TR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1260.m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1262.jpg" tvg-name="BEIN SPORTS HABER | TR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS HABER | TR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1262.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1263.jpg" tvg-name="BEIN SPORTS 1 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS 1 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1263.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1264.jpg" tvg-name="BEIN SPORTS 2 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS 2 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1264.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1265.jpg" tvg-name="BEIN SPORTS 3 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS 3 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1265.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1266.jpg" tvg-name="BEIN SPORTS MAX 4 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS MAX 4 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1266.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1267.jpg" tvg-name="BEIN SPORTS MAX 5 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS MAX 5 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1267.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1268.jpg" tvg-name="BEIN SPORTS MAX 6 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS MAX 6 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1268.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1269.jpg" tvg-name="BEIN SPORTS MAX 7 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS MAX 7 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1269.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1270.jpg" tvg-name="BEIN SPORTS MAX 8 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS MAX 8 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1270.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax9.fr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1271.jpg" tvg-name="BEIN SPORTS MAX 9 | FR" group-title="SPORTS | BEIN SPORTS",BEIN SPORTS MAX 9 | FR
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1271.m3u8
 
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 5 fr
-https://freelivtv.xyz/stream4k/stream.php?id=1267
-
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 6 fr
-https://freelivtv.xyz/stream4k/stream.php?id=1268
 
 
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports max 7 fr
-https://freelivtv.xyz/stream4k/stream.php?id=1269
-
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports 8 fr
-https://freelivtv.xyz/stream4k/stream.php?id=1270
-
-
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports 9 fr
-https://freelivtv.xyz/stream4k/stream.php?id=1271
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
