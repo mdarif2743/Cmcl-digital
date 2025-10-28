@@ -503,7 +503,7 @@ http://116.90.120.149:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="starutsavmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png" group-title="Movies",Star Utsav Movies
 #https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
-http://116.90.120.149:8000/play/a02r/index.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3208.m3u8
 
 #Colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPswrCmzOk6cjMYZyAc4b9UIZEp5FXqXeulQ&s" group-title="KOLKATA",Colors Bangla HD
@@ -535,7 +535,7 @@ https://stalker.tnm3us.workers.dev/2771.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
 #https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
-https://stalker.tnm3us.workers.dev/11711.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3220.m3u8
 
 
 
@@ -589,8 +589,8 @@ https://tiger-hub.vercel.app/SONY/MoviesUS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony MAX uk
 https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
 
-
-
+#EXTINF:-1,& FILIX
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3228.m3u8
 
 #Zee Channel
 #EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
@@ -798,7 +798,7 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fdf43V/20240809-081051.png" group-title="HINDI MOVIES", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
-https://tvsen6.aynascope.net/GoldminesBollywood/index.m3u8?e=1760039716&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=a74fd663d55ff83120e4c0da8202fd9d
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3192.m3u8
 
 
 
