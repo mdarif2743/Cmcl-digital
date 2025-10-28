@@ -521,7 +521,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="HINDI",Colors TV HD
-http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3089.m3u8
 
 
 
@@ -557,9 +557,14 @@ https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
-https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3080.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/Sony_WAH_logo.png" group-title="HINDI", Sony Wah
-https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3108.m3u8
+
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/23_7787.jpg" group-title="ENGLISH", Sony Pix HD
 https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/22_7782.jpg" group-title="HINDI", Sony Sab HD
