@@ -2,8 +2,6 @@
 
 
 
-#EXTINF:-1,BANGLA DRAMA
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6192.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png" group-title="#IP TV",world cup toffee
@@ -49,6 +47,12 @@ https://rumble.com/live-hls-dvr/6ykg6g/playlist.m3u8
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ hindi
 http://duchiduchitoreduchi.himelop-pro.top/ten3-himu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BANGLA DRAMA
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6192.m3u8
+
+
+
 
 #EXTINF:-1,HINDI DUBBING MOVIES
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
