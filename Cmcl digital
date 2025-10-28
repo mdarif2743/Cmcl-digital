@@ -594,7 +594,7 @@ https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
 
 #Zee Channel
 #EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
-http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3093.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="0-9-andtv" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png",AndTV
@@ -665,7 +665,7 @@ http://66.102.120.18:8000/play/a076/index.m3u8
 
 #EXTINF:1 tvg-name="Zee zeest" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/zee_zest.png" group-title="Entertainment",Zee zeest
 #http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
-http://89.187.189.98/ZEEZEST/index.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3162.m3u8
 
 
 #EXTINF:-1,BIG MAGIC
