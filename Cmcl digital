@@ -467,8 +467,8 @@ http://116.90.120.149:8000/play/a0b9/index.m3u8
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/276912.m3u8
 
 #EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="Movies",Star Gold Romance
-#http://182.176.185.207:7500/play/a07c/index.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+http://182.176.185.207:7500/play/a07c/index.m3u8
+
 
 #EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="Movies",Star Gold Thrills
 http://116.90.120.149:8000/play/a0c0/index.m3u8
@@ -492,15 +492,11 @@ http://116.90.120.149:8000/play/a0ea/index.m3u8
 https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/474198.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies
-http://51.15.7.9:3141/starmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
 
-#EXTINF:-1, MOVIES NOW HD
-http://89.187.189.98/MOVIESNOWHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="103" tvg-name="IN | STAR UTSAV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR UTSAV HD
