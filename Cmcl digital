@@ -634,25 +634,9 @@ http://89.187.189.98/ZEEANMOLCINEMA/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0-9-zeenews" group-title="News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
-
-#EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Hindustan.png",Zee Hindustan
-
-#EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="Business" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
-
-#EXTINF:-1 tvg-id="0-9-wion" group-title="News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png",Wion
 
 #EXTINF:-1 tvg-id="0-9-zing" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",Zing
 https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
-
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
-
-#EXTINF:-1 tvg-id="0-9-zeemarathihd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-
-#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
-
-#EXTINF:-1 tvg-id="0-9-zeetalkieshd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
 
 #EXTINF:-1 tvg-id="0-9-zeebangla"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
@@ -662,7 +646,7 @@ https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ZEE CAFE HD
 #http://195.181.169.162/ZEE_CAFE_HD/index.m3u8?token=test
@@ -673,8 +657,6 @@ http://66.102.120.18:8000/play/a076/index.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3162.m3u8
 
 
-#EXTINF:-1,BIG MAGIC
-http://89.187.189.98/BIGMAGIC/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png" group-title="HINDI MOVIES", & FLIX HD
