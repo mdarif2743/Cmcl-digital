@@ -978,11 +978,10 @@ http://175.107.244.52:4456/play/a06z/index.m3u8
 http://66.102.120.18:8000/play/a05f/index.m3u8
 
 
-
-#EXTINF:-1, PREMIER SPORTS 1
-https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PREMIER SPORTS 2
-https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport_HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,Eurosport_2_HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 
 #EXTINF:-1, SUPER SPORTS cricket
 https://stalker.tnm3us.workers.dev/12167.m3u8
