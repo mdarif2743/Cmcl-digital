@@ -690,9 +690,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
 https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
-#http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/travelxphdhindi/master.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="tlchindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/tlchindi.png" group-title="Lifestyle",TLC Hindi
