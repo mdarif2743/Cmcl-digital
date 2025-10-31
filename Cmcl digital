@@ -267,6 +267,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/pbn.jpg" group-title="BANGLADESH",PBN
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8
 
+#EXTINF:-1,SAMI TV HD
+https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/Ten-Prime.jpg" group-title="BANGLADESH",E Ten Tv Prime
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8
