@@ -163,17 +163,17 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6145.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_24.png" group-title="BANGLADESH",Channel 24
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-http://stvlive.net:8080/channel24/index.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6144.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/GTV.png" group-title="BANGLADESH",GAZI TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
-
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6171.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekattor_tv.png" group-title="BANGLADESH",Ekattor TV
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-http://stvlive.net:8080/ekattor/index.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6162.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Asian_TV.png" group-title="BANGLADESH",Asian TV
@@ -185,7 +185,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6213.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Global_TV.png" group-title="BANGLADESH",Global Television
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6172.m3u8
 
 
 
@@ -198,7 +198,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Deepto_TV.png" group-title="BANGLADESH",Deepto TV
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-http://stvlive.net:8080/deepto/tracks-v1a1/mono.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6154.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/DBC_News.png" group-title="BANGLADESH",DBC News
