@@ -1100,11 +1100,9 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 
 
 
-#EXTINF:-1,TEN SPORTS HD
-https://freelivtv.xyz/stream4k/stream.php?id=472286
 
-#EXTINF:-1,astro cricket
-https://stalker.tnm3us.workers.dev/12141.m3u8
+#EXTINF:-1,astro FOOTBALL ⚽⚽
+https://smart.bengaldigital.live/AstroFootball/index.m3u8
 
 
 
@@ -1122,21 +1120,8 @@ http://135.125.238.26:8080/catena-36-1149993-streamer-nz_sky_sport_4/video.m3u8?
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",SuperSports Cricket
-https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6650.m3u8
-#EXTINF:-1, SSC 2
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6652.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 3
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6653.m3u8
-
-#EXTINF:-1,SSC 4
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6654.m3u8
-#EXTINF:-1,SSC 5
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6655.m3u8
 Sky sports all channel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="",VE- uk - sky sport premier league
