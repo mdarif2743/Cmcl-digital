@@ -528,7 +528,7 @@ http://66.102.120.18:8000/play/a01a/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
+https://nettv.fun/jh/stream.php?id=Syn_Colors_Bangla_Cinema&sr=Fallback&e=.m3u8
 
 
 
@@ -542,7 +542,7 @@ https://stalker.tnm3us.workers.dev/67087.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-https://stalker.tnm3us.workers.dev/2771.m3u8
+https://nettv.fun/jh/stream.php?id=JC_ColorsRishtey&sr=JCHLS&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
@@ -552,10 +552,10 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3220.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexSuperhit&sr=JCHLS&e=.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
-http://195.181.169.162/COLORS_INFINITY_HD/index.m3u8?token=test
+https://nettv.fun/jh/stream.php?id=JC_ColorsInfinityHD&sr=JCHLS&e=.m3u8
 
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
