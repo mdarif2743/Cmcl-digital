@@ -684,8 +684,8 @@ https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY (BNG)
-https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
-
+#https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+https://bongoflixbd.top/stream.php?id=db6759ab-4cf1-4970-9007-c15d977e33de
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Discovery_HD.png" group-title="Documentary",Discovery HINDI
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3142.m3u8
@@ -696,7 +696,7 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3142.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD HINDI
 https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD (BEN)
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
+
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
 https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
@@ -707,7 +707,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tlchindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/tlchindi.png" group-title="Lifestyle",TLC Hindi
-https://live.dinesh29.com.np/stream/jiotvplus/tlchindi/master.m3u8
+
 
 
 
