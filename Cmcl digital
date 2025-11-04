@@ -12,15 +12,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=e864851a-be2b
 https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd
 
-#EXTINF:-1 tvg-id="122" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",BTV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
 
 #EXTINF:-1 tvg-id="134" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV HD 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-1 tvg-id="97" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",Jamuna TV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",Sony AATH 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,14 +37,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=8f95c9cd-6940
 https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd
 
-#EXTINF:-1 tvg-id="93" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-
-#EXTINF:-1 tvg-id="100" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",Bangla Vision 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
-#EXTINF:-1 tvg-id="94" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 
 #EXTINF:-1 tvg-id="76" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1754631932246.png",Star Sports 1 HD 
@@ -57,14 +44,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=f9e1c145-b66f
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.mpd
 
-#EXTINF:-1 tvg-id="102" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",Ekattor HD 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="65" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",Al Jazeera 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 tvg-id="96" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",Independent TV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -74,8 +57,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd
 #EXTINF:-1 tvg-id="99" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-id="98" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
 
 #EXTINF:-1 tvg-id="123" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png",STAR GOLD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -122,11 +104,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=368f3847-ed5e
 https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd
 
-#EXTINF:-1 tvg-id="131" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",ATN Bangla 
- https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-#EXTINF:-1 tvg-id="132" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel I HD 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-id="139" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",Ten Cricket 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
