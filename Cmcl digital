@@ -62,7 +62,14 @@ https://d4.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=9adOIHRLqpMEKI5aMRwELA&expi
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d5.merichunidya.com:1686/hls/bbtespn.m3u8?md5=FHap2XdGbDJ_X9IKPWXT_g&expires=1762548454
 
-
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",Premier Sports 1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d7.merichunidya.com:1686/hls/premieruk.m3u8?md5=BeR_TnIYNiYEw4ReX6kC9w&expires=1762548457
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",Premier Sports 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d4.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=4YnYDwgvma2lylRaCUx4pg&expires=1762548457
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png",Sky Cinema
@@ -94,6 +101,15 @@ https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=_EQifJukKtqlq69N7_7Atw&exp
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d5.merichunidya.com:1686/hls/skysfor1.m3u8?md5=ce2EZIJ9Ux3ya6XNAOrX0g&expires=1762548457
 
+
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d10.merichunidya.com:1686/hls/skysmixx.m3u8?md5=xcnIZRYe1TiY4OoxhPLldA&expires=1762548459
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png",Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d2.merichunidya.com:1686/hls/skystennis.m3u8?md5=JRvDR2V0pncy3gHtDCUPtg&expires=1762548459
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -174,15 +190,14 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png" group-title="#IP TV",world cup toffee
-https://bongoflixbd.top/test/live.php?id=match-asiacup&e=.m3u8
+
 #EXTINF:-1,LIVE SPORTS
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251010%2Fmycolive-thumblivepng-1760114388682.webp&w=3840&q=30" group-title="Live",ICC Women’s World Cup Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+
 
 
 #EXTINF:-1,LIVE SPORTS
@@ -210,17 +225,15 @@ http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", TEN SPORTS HD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1143.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ASTRO CRICKET
 https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus ⚾⚾ fox hindi
-https://rumble.com/live-hls-dvr/6ykg6g/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus⚾⚾
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ hindi
-http://duchiduchitoreduchi.himelop-pro.top/ten3-himu/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,BANGLA DRAMA
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6192.m3u8
@@ -1083,21 +1096,10 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
-#https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-http://alexbdix.noobmaster.xyz:8080/TSPORTS/index.mpd
-
-
-#EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
-#https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
-http://116.90.120.149:8000/play/a0bv/index.m3u8
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/star1in.m3u8?md5=vNcNgcdPeBZWVEsTulC3zQ&expires=1762548452
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
