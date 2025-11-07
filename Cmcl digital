@@ -1036,10 +1036,10 @@ http://116.90.120.149:8000/play/a0bv/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
-#https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d2.merichunidya.com:1686/hls/star1in.m3u8?md5=vNcNgcdPeBZWVEsTulC3zQ&expires=1762548452
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
