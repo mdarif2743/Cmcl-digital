@@ -14,6 +14,9 @@ http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=e864851a-be2b
 https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd
 
+#EXTINF:-1,LEMAR SPORTS AF
+http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
