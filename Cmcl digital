@@ -665,6 +665,9 @@ https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,& FILIX
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
+
+#EXTINF:-1,& FILIX HD
+http://66.102.120.18:8000/play/a022/index.m3u8
 #Zee Channel
 #EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3093.m3u8
