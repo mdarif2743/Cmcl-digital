@@ -629,7 +629,7 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=225775&extension=m3u8&play_token=LDQJNdLQwd
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
-#https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
+#http://66.102.120.18:8000/play/a005/index.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3080.m3u8
 
 
@@ -759,7 +759,7 @@ https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
-https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
+http://66.102.120.18:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
