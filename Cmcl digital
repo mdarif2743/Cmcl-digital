@@ -3,10 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",LaLiGA Live 1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/laligauk.m3u8?md5=Vv_6BZfWvPomCY4MZvPohA&expires=1762548457
-
+http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 
 
