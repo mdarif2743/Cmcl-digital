@@ -991,6 +991,10 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/
 #EXTINF:-1,MADANI TV URDU
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
 
+
+#EXTINF:-1,AZAN TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
 #EXTINF:-1,QURAN TV
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 
