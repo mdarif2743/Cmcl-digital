@@ -527,13 +527,11 @@ https://stalker.tnm3us.workers.dev/66798.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6227.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="HINDI",Star Plus HD
-#http://116.90.120.149:8000/play/a0b9/index.m3u8
-https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4
+http://66.102.120.18:8000/play/a008/index.m3u8
 
 
 
-#EXTINF:-1,STAR PLUS
-http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/276912.m3u8
+
 
 #EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="Movies",Star Gold Romance
 http://182.176.185.207:7500/play/a07c/index.m3u8
@@ -563,7 +561,7 @@ https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/474198.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+http://66.102.120.18:8000/play/a020/index.m3u8
 
 
 
@@ -613,7 +611,7 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3220.m3u8
 https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexSuperhit&sr=JCHLS&e=.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
-https://nettv.fun/jh/stream.php?id=JC_ColorsInfinityHD&sr=JCHLS&e=.m3u8
+http://66.102.120.18:8000/play/a014/index.m3u8
 
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
@@ -696,8 +694,8 @@ https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 #https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
 http://89.187.189.98/ZEEANMOLCINEMA/index.m3u8
-
-
+#EXTINF:-1,&EXPLOR HD
+http://66.102.120.18:8000/play/a012/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zing" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",Zing
@@ -831,7 +829,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
+http://66.102.120.18:8000/play/a013/index.m3u8
 
 
 #Extra
