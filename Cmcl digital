@@ -3,6 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",LaLiGA Live 1
+#https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 
