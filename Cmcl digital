@@ -1405,10 +1405,8 @@ https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,ESPN
-https://tiger-hub.vercel.app/SPORT-ZONE/ESPN/tracks-v1a1/mono.ts.m3u8
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1,ESPN 2
-https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ESPN 3
 https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
 
 
