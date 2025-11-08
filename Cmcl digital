@@ -11,6 +11,12 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 http://104.243.40.13:8989/279426_.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
+https://stalker.tnm3us.workers.dev/12104.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png", T SPORTS HD
+http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 
 
@@ -28,28 +34,24 @@ https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=dd5030d1-5cc8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/472281.m3u8
+
+
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
+http://116.90.120.149:8000/play/a0cs/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
+https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="123" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png",STAR GOLD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=ssuwd28er-ihda
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.mpd
-
-#EXTINF:-1 tvg-id="86" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png",Star Jalsha HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=3c65b579-5825
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.mpd
-
-#EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",Star Movies HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=0f2ba568-bf5b
-https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.mpd
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
 https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
@@ -57,35 +59,11 @@ https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=26ba8aaf-c2cf
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd
-
-#EXTINF:-1 tvg-id="90" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",Euro Sports HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=df67fc1a-01d1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd
-
-#EXTINF:-1 tvg-id="81" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017364619.png",Zee Bangla Sonar 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=35ec6c98-c95e
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.mpd
-
-#EXTINF:-1 tvg-id="117" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739907006666.png",Sony Sports TEN 2 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=f352d057-1907
-https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd
-
-#EXTINF:-1 tvg-id="124" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",Sony Entertainment 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=368f3847-ed5e
-https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd
 
 
-#EXTINF:-1 tvg-id="139" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",Ten Cricket 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dth.nettv.fun/lic.php?ic=801c26dd-8035
-https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -99,11 +77,6 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251010%2Fmycolive-thumblivepng-1760114388682.webp&w=3840&q=30" group-title="Live",ICC Women’s World Cup Live on myco
-#EXTVLCOPT:http-referrer=https://myco.io/
-
-
-
 #EXTINF:-1,LIVE SPORTS
 https://wo.cma.footballii.ir/hls2/solh.m3u8
 
@@ -112,28 +85,24 @@ https://wo.cma.footballii.ir/hls2/solh.m3u8
 https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",t sports link1
-https://stalker.tnm3us.workers.dev/12104.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD ban vs wi ⚾
-http://116.204.149.16/t_sports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png", live cricket
 https://ams.sandbrix.live/LiveApp/streams/d8dG8ew76tuf4Zhk242747603365482.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE football EPL ⚽ 
 http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png", T SPORTS HD
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ASTRO CRICKET
 https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus ⚾⚾ fox hindi
-https://rumble.com/live-hls-dvr/6z7w6k/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus⚾⚾
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ hindi
@@ -550,7 +519,7 @@ https://stalker.tnm3us.workers.dev/58155.m3u8
 #https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6225.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="Indian bangla",Jalsha Movie sd
+#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
 https://stalker.tnm3us.workers.dev/66798.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
@@ -1005,40 +974,6 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVmiW9annZUDjqhSrL-jXEw_8SlORcA8aQcdCpNn9VAgqSnSnglkWnd56&s=10" group-title="Islamic",Huda Tv
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
-#http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/472281.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-#http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
-https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
-https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
-http://116.90.120.149:8000/play/a0cm/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-http://116.90.120.149:8000/play/a0cs/index.m3u8
-
-
-#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
-https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
 https://bongoflixbd.top/test/live.php?id=euro_sports_hd&e=.m3u8
