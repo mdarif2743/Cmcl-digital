@@ -357,7 +357,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="English News" group-title="",BBC World
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+http://66.102.120.18:8000/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
@@ -574,8 +574,7 @@ http://66.102.120.18:8000/play/a008/index.m3u8
 
 
 #EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="Movies",Star Gold Romance
-http://182.176.185.207:7500/play/a07c/index.m3u8
-
+http://66.102.120.18:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="Movies",Star Gold Thrills
 http://116.90.120.149:8000/play/a0c0/index.m3u8
@@ -594,11 +593,12 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3075.m3u8
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-http://116.90.120.149:8000/play/a0ea/index.m3u8
+http://66.102.120.18:8000/play/a077/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/474198.m3u8
+http://66.102.120.18:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 http://66.102.120.18:8000/play/a020/index.m3u8
