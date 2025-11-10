@@ -1074,8 +1074,8 @@ https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1359.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 1
-https://balance.footballii.ir/hls2/b1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 2
+http://5.135.26.128/stream/bein/bein2/out/index.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="beIN Sports MENA English 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-1.png" group-title="OTHERS",beIN Sports MENA English 1
 https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
