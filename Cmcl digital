@@ -222,8 +222,8 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6145.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_24.png" group-title="BANGLADESH",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+https://ch24cdn.ncare.live/channel24/ch24office/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/GTV.png" group-title="BANGLADESH",GAZI TV
