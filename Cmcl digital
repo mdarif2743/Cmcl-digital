@@ -763,7 +763,9 @@ http://89.187.189.98/ZEEBOLLYWOOD/index.m3u8
 https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 #https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
-http://89.187.189.98/ZEEANMOLCINEMA/index.m3u8
+http://66.102.120.18:8000/play/a01v/index.m3u8
+
+
 #EXTINF:-1,&EXPLOR HD
 http://66.102.120.18:8000/play/a012/index.m3u8
 
