@@ -123,6 +123,9 @@ https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1,ALL TIME BD SONG
 https://tplay.live/originals/bengali-beats/index.m3u8
 
+#EXTINF:-1,DEWANA HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,ALL TIME MOVIES
 https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
 
