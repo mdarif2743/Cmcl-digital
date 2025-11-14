@@ -2,6 +2,11 @@
 
 #EXTM3U
 
+#EXTINF:-1,TYC SPORTS
+http://104.238.205.28:8989/278778_.m3u8
+
+
+
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",LaLiGA Live 1
 http://cdntv.online/low/9mlxywika2/56.m3u8
 
@@ -104,7 +109,9 @@ http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ASTRO CRICKET
-https://smart.bengaldigital.live/AstroCricket/index.m3u8
+#https://smart.bengaldigital.live/AstroCricket/index.m3u8
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus ⚾⚾ fox hindi
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus⚾⚾
@@ -416,8 +423,8 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/s
 
 
 #EXTINF:-1,SONY SPORTS 1 SD
-https://bongoflixbd.top/test/live.php?id=sony_sports_1_hd&e=.m3u8
-
+#https://bongoflixbd.top/test/live.php?id=sony_sports_1_hd&e=.m3u8
+http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009277
