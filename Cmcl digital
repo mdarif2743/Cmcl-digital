@@ -4,8 +4,8 @@
 
 #EXTINF:-1,TYC SPORTS
 http://104.238.205.28:8989/278778_.m3u8
-
-
+#EXTINF:-1,FUBO SPORTS 
+https://livetv-fa.tubi.video/fubo/master.m3u8
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",LaLiGA Live 1
 http://cdntv.online/low/9mlxywika2/56.m3u8
