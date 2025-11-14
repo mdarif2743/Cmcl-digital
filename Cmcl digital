@@ -171,7 +171,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Rtv.png" group-title="BANGLADESH",RTV
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6131.m3u8
+https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1763131342&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=607da1a7464e99499744700a0499ec00
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Boishakhi_TV.png" group-title="BANGLADESH",Boishakhi TV
@@ -220,10 +220,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Maasranga_Tv.jpg" group-title="BANGLADESH",Maasranga Television
-https://tvsen5.aynascope.net/maasrangatv/tracks-v1a1/mono.ts.m3u8?e=1762933303&token=0cffffbac89c916f3cb9f6b905c4d411&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d
+https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1763131347&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=3e996f3d17bc77e376d37f4c5c319f06
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/channel_9.png" group-title="BANGLADESH",Channel 9
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6145.m3u8
+https://tvsen6.aynascope.net/channel9/index.m3u8?e=1763131364&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8fd8b18e29198083c9355f937de94017
 
 
 
@@ -233,8 +234,8 @@ https://ch24cdn.ncare.live/channel24/ch24office/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/GTV.png" group-title="BANGLADESH",GAZI TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
-
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
+https://tvsen5.aynascope.net/Ravc7gPCZpxk/index.m3u8?e=1763131356&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=b2fd7fc8c8b7dc4480dd10ce9973ab0e
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekattor_tv.png" group-title="BANGLADESH",Ekattor TV
@@ -248,10 +249,10 @@ https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SA_TV.png" group-title="BANGLADESH",SA TV
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6213.m3u8
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1763131375&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ecd2621e3bd860c8be5acae2e81eff21
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Global_TV.png" group-title="BANGLADESH",Global Television
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6172.m3u8
+https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1763131395&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=de6a873bccf17835ed66213325d8dfb9
 
 
 
