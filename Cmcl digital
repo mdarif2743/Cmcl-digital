@@ -1355,24 +1355,14 @@ https://tiger-hub.vercel.app/SPORT-ZONE/Cablenet_Sports-2/tracks-v1a1/mono.ts.m3
 
 
 
-#EXTINF:-1,TNT SPORTS 1 🇺🇸
-#https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
-
-
-#EXTINF:-1,TNT SPORTS 2 🇺🇸
-#https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
-
-
-#EXTINF:-1,TNT SPORTS 3 🇺🇸
-#https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3935.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="",ve-tnt4
-#https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3936.m3u8
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png",UK | TNT Sports 1
+http://kstv.us:8080/live/carloskiu/4461542986/47850.m3u8
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png",UK | TNT Sports 2
+http://kstv.us:8080/live/carloskiu/4461542986/47851.m3u8
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png",UK | TNT Sports 3
+http://kstv.us:8080/live/carloskiu/4461542986/47852.m3u8
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png",UK | TNT Sports 4
+http://kstv.us:8080/live/carloskiu/4461542986/47853.m3u8
 
 
 
