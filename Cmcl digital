@@ -1124,13 +1124,27 @@ https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1359.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 2
-http://5.135.26.128/stream/bein/bein2/out/index.m3u8
-
-#EXTINF:-1 tvg-id="61" tvg-name="beIN Sports MENA English 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-1.png" group-title="OTHERS",beIN Sports MENA English 1
-https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-2.png" group-title="OTHERS",beIN Sports MENA English 2
-https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true",Bein Sport 01
+http://kstv.us:8080/live/carloskiu/4461542986/12554.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports2.png?raw=truebeinsports2.default.svg",Bein Sport 02
+http://kstv.us:8080/live/carloskiu/4461542986/12553.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports3.default.png?raw=true",Bein Sport 03
+http://kstv.us:8080/live/carloskiu/4461542986/12552.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports4.default.png?raw=true",Bein Sport 04
+http://kstv.us:8080/live/carloskiu/4461542986/12551.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports5.default.png?raw=true",Bein Sport 05
+http://kstv.us:8080/live/carloskiu/4461542986/12550.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports6.default.png?raw=true",Bein Sport 06
+http://kstv.us:8080/live/carloskiu/4461542986/12549.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports7.default.png?raw=true",Bein Sport 07
+http://kstv.us:8080/live/carloskiu/4461542986/12548.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports8.default.png?raw=true",Bein Sport 08 News
+http://kstv.us:8080/live/carloskiu/4461542986/12547.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/Fourqui/tv/blob/master/misc/sports/ppv-live/BeIN_Xtra.png?raw=true",Bein Sport 09  XTRA 1
+http://kstv.us:8080/live/carloskiu/4461542986/12546.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports10.png?raw=true",Bein Sport 10 XTRA 2
+http://kstv.us:8080/live/carloskiu/4461542986/12545.m3u8
 
 
 
