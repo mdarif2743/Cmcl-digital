@@ -686,16 +686,14 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 
 #Sony
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/8_7790.jpg" group-title="KOLKATA", Sony Aath
-#https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
-#https://bongoflixbd.top/test/live.php?cid=sonyaath&segment=db37e8dcd2930a3d5cc600a1f8e05d8b33c8419e81bb8858a877810ae6f7da67329fc8a564db0503bebead7e5dc81b07
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=225775&extension=m3u8&play_token=LDQJNdLQwd
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
-http://66.102.120.18:8000/play/a005/index.m3u8
-
+#http://66.102.120.18:8000/play/a005/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009246|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009246
 
 #EXTINF:-1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/Sony_WAH_logo.png" group-title="HINDI", Sony Wah
-#https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009253|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009253
 
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/23_7787.jpg" group-title="ENGLISH", Sony Pix HD
