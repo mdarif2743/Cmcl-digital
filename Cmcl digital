@@ -410,8 +410,8 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 #Sports
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Sports 1 HD
-#https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009276
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/497.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009276
+
 
 
 #EXTINF:-1,SONY SPORTS 1 SD
@@ -419,14 +419,14 @@ https://bongoflixbd.top/test/live.php?id=sony_sports_1_hd&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
-#https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009277
-http://66.102.120.18:8000/play/a01y/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009277
+
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Sports 3 HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009278|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009278
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
-#https://nxtlive.net/sliv/stream.m3u8?id=1000009275|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009275
-http://66.102.120.18:8000/play/a010/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009275|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009275
+
 
 
 
@@ -687,7 +687,7 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 #Sony
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/8_7790.jpg" group-title="KOLKATA", Sony Aath
 #https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
-https://bongoflixbd.top/test/live.php?cid=sonyaath&segment=db37e8dcd2930a3d5cc600a1f8e05d8b33c8419e81bb8858a877810ae6f7da67329fc8a564db0503bebead7e5dc81b07
+#https://bongoflixbd.top/test/live.php?cid=sonyaath&segment=db37e8dcd2930a3d5cc600a1f8e05d8b33c8419e81bb8858a877810ae6f7da67329fc8a564db0503bebead7e5dc81b07
 http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=225775&extension=m3u8&play_token=LDQJNdLQwd
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
@@ -699,20 +699,20 @@ http://66.102.120.18:8000/play/a005/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/23_7787.jpg" group-title="ENGLISH", Sony Pix HD
-#https://nxtlive.net/sliv/stream.m3u8?id=1000009258|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009258
-http://66.102.120.18:8000/play/a01z/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009258|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009258
+
 
 
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/22_7782.jpg" group-title="HINDI", Sony Sab HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009248|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009248
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="HINDI", Sony Max HD
-#https://nxtlive.net/sliv/stream.m3u8?id=1000009247|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009247
-http://66.102.120.18:8000/play/a071/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009247|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009247
+
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/2_7785.jpg" group-title="HINDI", Sony Max 2
-#https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000044878
-http://66.102.120.18:8000/play/a00h/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000044878
+
 
 #EXTINF:-1 tvg-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="HINDI", Sony Kal
 https://stalker.tnm3us.workers.dev/44157.m3u8
@@ -723,8 +723,8 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009273|Referer=https://nxtlive.net/s
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/10_7793.jpg" group-title="HINDI", Sony Yay
 https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000001971
 #EXTINF:-1 tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="HINDI", Sony BBC Earth
-#https://nxtlive.net/sliv/stream.m3u8?id=1000009252|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009252
-http://66.102.120.18:8000/play/a01r/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009252|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009252
+
 
 
 
