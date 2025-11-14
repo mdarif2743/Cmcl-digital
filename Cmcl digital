@@ -997,12 +997,12 @@ https://cdn-2.pishow.tv/live/226/226_1.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/poster_20210706_165834.jpg" group-title="Entertainment", Mastiii
 https://sablive-ddpb.akamaized.net/mastii/mastii_poc_3500k.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23111/9xm/poster_20240521_223853.jpg" group-title="Music",9XM
-https://tiger-hub.vercel.app/MUSIC-ZONE/9XM/tracks-v1a1/mono.ts.m3u8
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 #EXTINF:-1 tvg-id="167" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="",B4u Music
 https://cdnb4u.wiseplayout.com/B4U_Music/HD720/HD720.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-logo="https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558" group-title="",Sangeet Bangla
-https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
