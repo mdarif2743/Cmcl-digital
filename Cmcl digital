@@ -932,6 +932,8 @@ http://66.102.120.18:8000/play/a013/index.m3u8
 
 #Extra
 
+#EXTINF:-1, BOLLYWOOD 4U
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/beb392b5-b46b-495e-bdfc-bef8d6468cd9/2.m3u8?ads.channel=6604&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1763129542~exp=1763151142~acl=!*/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/*!/payload/yupptvott_61_-1_fff3c19eaf5742a5_SA_95.178.86.210_yuppfast_2_channel_47_-1/*~data=yupptvott_61_-1_fff3c19eaf5742a5_SA_95.178.86.210_yuppfast_2_channel_47_-1~hmac=4aee3e6e3b0c852201cd72d065f1a3585cef77219119878483cee3f8d010edab&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Bollywood4U&ads.language=HIN&ads.user=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Nazara_TV_logo.png", NAZARA
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
