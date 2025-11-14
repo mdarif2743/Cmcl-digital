@@ -16,8 +16,8 @@ https://stalker.tnm3us.workers.dev/12104.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png", T SPORTS HD
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
-
+#http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",LaLiGA Live 3
