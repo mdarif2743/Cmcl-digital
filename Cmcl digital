@@ -1384,7 +1384,9 @@ https://tiger-hub.vercel.app/SPORT-ZONE/Cablenet_Sports-2/tracks-v1a1/mono.ts.m3
 
 
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png",UK | TNT Sports 1
-http://kstv.us:8080/live/carloskiu/4461542986/47850.m3u8
+#http://kstv.us:8080/live/carloskiu/4461542986/47850.m3u8
+http://178.33.239.54:8080/509a/index.m3u8
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png",UK | TNT Sports 2
 http://kstv.us:8080/live/carloskiu/4461542986/47851.m3u8
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png",UK | TNT Sports 3
