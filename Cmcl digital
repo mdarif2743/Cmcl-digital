@@ -1237,7 +1237,9 @@ http://178.33.239.54:8080/503a/index.m3u8
 
 
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1306.png",UK | Sky Sports F1
-http://kstv.us:8080/live/carloskiu/4461542986/47865.m3u8
+#http://kstv.us:8080/live/carloskiu/4461542986/47865.m3u8
+http://178.33.239.54:8080/508a/index.m3u8
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3838.png",UK | Sky Sports Football
 http://kstv.us:8080/live/carloskiu/4461542986/47866.m3u8
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1322.png",UK | Sky Sports GOLF
@@ -1248,7 +1250,10 @@ http://178.33.239.54:8080/502a/index.m3u8
 
 
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/240/skychb4091.png",UK | Sky Sports Mix
-http://kstv.us:8080/live/carloskiu/4461542986/47869.m3u8
+#http://kstv.us:8080/live/carloskiu/4461542986/47869.m3u8
+http://178.33.239.54:8080/507a/index.m3u8
+
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1314.png",UK | Sky Sports News
 http://kstv.us:8080/live/carloskiu/4461542986/47870.m3u8
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1333.png",UK | Sky Sports Premier League
