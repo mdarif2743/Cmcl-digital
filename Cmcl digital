@@ -1131,6 +1131,15 @@ https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1359.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true",TURUVISION Bein Sport 01
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports2.png?raw=truebeinsports2.default.svg", TURU VISION Bein Sport 02
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true",Bein Sport 01
 http://kstv.us:8080/live/carloskiu/4461542986/12554.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports2.png?raw=truebeinsports2.default.svg",Bein Sport 02
