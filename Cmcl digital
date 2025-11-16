@@ -61,48 +61,48 @@ http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/
 
 
 #EXTINF:-1,TEN SPORTS HD
-http://66.102.120.18:8000/play/a00d/index.m3u8
-
+#http://66.102.120.18:8000/play/a00d/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98.ts
 
 
 #EXTINF:-1, STAR SPORTS KHEL
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1 HD
 #https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
-http://66.102.120.18:8000/play/a009/index.m3u8
-
+#http://66.102.120.18:8000/play/a009/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/148.ts
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 #https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
-http://66.102.120.18:8000/play/a072/index.m3u8
+#http://66.102.120.18:8000/play/a072/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/211.ts
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2 HD
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1066.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/239.ts
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-http://66.102.120.18:8000/play/a00v/index.m3u8
-
+#http://66.102.120.18:8000/play/a00v/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 #https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
-http://cors.tundracast.com:2000/http://87.255.35.150:18804/.ts
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
 
 
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
 #https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
-http://66.102.120.18:8000/play/a06x/index.m3u8
-
+#http://66.102.120.18:8000/play/a06x/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/238.ts
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-http://66.102.120.18:8000/play/a06y/index.m3u8
-
+#http://66.102.120.18:8000/play/a06y/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/148801.ts
 
 
 
@@ -337,7 +337,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/411.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports
-
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/130714.ts
 
 
 #EXTINF:-1, RAJDHANI TV HD
