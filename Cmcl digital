@@ -63,6 +63,11 @@ http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/
 #EXTINF:-1,TEN SPORTS HD
 http://66.102.120.18:8000/play/a00d/index.m3u8
 
+
+
+#EXTINF:-1, STAR SPORTS KHEL
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
+
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
 http://66.102.120.18:8000/play/a009/index.m3u8
@@ -1435,12 +1440,17 @@ http://kstv.us:8080/live/carloskiu/4461542986/15926.m3u8
 #EXTINF:-1 group-title="US - Sports" tvg-logo="https://tlgrm.re/images/tsn-5-ca.png",US | TSN 5 HD
 http://kstv.us:8080/live/carloskiu/4461542986/15925.m3u8
 
+#EXTINF:-1,HUB SPORTS 4
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/196347.ts
 
+#EXTINF:-1, STARZ PLAY Sports 1
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122979.ts
 
+#EXTINF:-1, STARZ PLAY Sports 2
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122980.ts
 
-
-
-
+#EXTINF:-1, STARZ PLAY Sports 3
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/158897.ts
 
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
