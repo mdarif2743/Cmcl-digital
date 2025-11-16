@@ -451,8 +451,8 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 #Sports
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Sports 1 HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009276
-
+#https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009276
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/146.ts
 
 
 #EXTINF:-1,SONY SPORTS 1 SD
@@ -460,14 +460,16 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/s
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009277
-
+#https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009277
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/31314.ts
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Sports 3 HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009278|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009278
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
-https://nxtlive.net/sliv/stream.m3u8?id=1000009275|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009275
 
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
+#https://nxtlive.net/sliv/stream.m3u8?id=1000009275|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009275
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/176.ts
 
 
 
