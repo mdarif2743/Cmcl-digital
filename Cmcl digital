@@ -549,12 +549,12 @@ https://bongoflixbd.top/test/live.php?id=hum_sitaray&e=.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/124.ts
 
 
-#EXTINF:-1 ,15.Sanonda TV
-https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+#https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
+
 
 #EXTINF:-,KUSBO BANGLA
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -576,13 +576,13 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 
 #EXTINF:-1 tvg-id="3aa4d27d-91e1-4afe-a6b5-de35beefae4f" tvg-name="Rupshi Bangla" tvg-logo="https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79" group-title="Channels",Rupshi Bangla
-https://tvsen6.aynaott.com/RupshiBangla/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=803030fb942fc2209c609a555cf33011
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/409.ts
 
 #EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="Sangeet Bangla" tvg-logo="https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558" group-title="Channels",Sangeet Bangla
-https://stalker.tnm3us.workers.dev/11226.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/405.ts
 
 #EXTINF:-1 tvg-id="c8080032-034e-4f04-b1ee-0847a6e62a41" tvg-name="News Time Bangla" tvg-logo="https://s3.aynaott.com/storage/a4026bfc5928a4abd66c10a5b8d07eba" group-title="Channels",News Time Bangla
-https://tvsen6.aynaott.com/NewsTime/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b73afd34a3974007a5cedf6219cf0b7a
+
 
 #EXTINF:-1 tvg-id="7141c05b-97cd-4dd1-9584-423c7a5ce13d" tvg-name="Republic Bangla" tvg-logo="https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c" group-title="Channels",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
@@ -594,7 +594,7 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="247cf723-3c1d-47bc-b765-64da2623a297" tvg-name="News India 24x7" tvg-logo="https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458" group-title="Channels",News India 24x7
-https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=bc129d451d7d69788b4cb016b12a2237
+
 
 #EXTINF:-1 tvg-id="262789f8-92af-4738-986c-c5deafeef997" tvg-name="kolkata TV" tvg-logo="https://s3.aynaott.com/storage/74e02cf4a1fbd11e78275d819779e7e1" group-title="Channels",kolkata TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
@@ -604,13 +604,14 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 
 #STAR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KOLKATA",Star Jalsha
-https://stalker.tnm3us.workers.dev/58155.m3u8
-
+#https://stalker.tnm3us.workers.dev/58155.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/375336.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KOLKATA",Star Jalsha HD
-#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98883.ts
-https://stalker.tnm3us.workers.dev/12101.m3u8
+#https://stalker.tnm3us.workers.dev/12101.m3u8
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98883.ts
+
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
 https://stalker.tnm3us.workers.dev/66798.m3u8
@@ -620,56 +621,61 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98884.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="HINDI",Star Plus HD
-http://66.102.120.18:8000/play/a008/index.m3u8
-
+#http://66.102.120.18:8000/play/a008/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98849.ts
 
 
 
 
 #EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="Movies",Star Gold Romance
-http://66.102.120.18:8000/play/a00r/index.m3u8
+#http://66.102.120.18:8000/play/a00r/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/972.ts
+
 
 #EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="Movies",Star Gold Thrills
 http://66.102.120.18:8000/play/a00c/index.m3u8
 
 #EXTINF:-1, tvg-id="29" tvg-name="IN | STAR GOLD " tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png"group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/476855.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/375331.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 #https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3075.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-#https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
-http://66.102.120.18:8000/play/a00f/index.m3u8
-
+#http://66.102.120.18:8000/play/a00f/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9375.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-http://66.102.120.18:8000/play/a077/index.m3u8
+#http://66.102.120.18:8000/play/a077/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
-#https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
-http://66.102.120.18:8000/play/a01s/index.m3u8
-
+#http://66.102.120.18:8000/play/a01s/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9376.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://66.102.120.18:8000/play/a021/index.m3u8
-
+#http://66.102.120.18:8000/play/a021/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98842.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-http://66.102.120.18:8000/play/a020/index.m3u8
-
+#http://66.102.120.18:8000/play/a020/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98843.ts
 
 
 
 #EXTINF:-1 tvg-id="103" tvg-name="IN | STAR UTSAV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR UTSAV HD
-http://116.90.120.149:8000/play/a02t/index.m3u8
+#http://116.90.120.149:8000/play/a02t/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/158970.ts
+
 
 #EXTINF:-1 tvg-id="starutsavmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png" group-title="Movies",Star Utsav Movies
-#https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3208.m3u8
+
+
 
 #Colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPswrCmzOk6cjMYZyAc4b9UIZEp5FXqXeulQ&s" group-title="KOLKATA",Colors Bangla HD
@@ -688,7 +694,7 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="HINDI",Colors TV HD
 #http://66.102.120.18:8000/play/a00a/index.m3u8
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3089.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98851.ts
 
 
 
