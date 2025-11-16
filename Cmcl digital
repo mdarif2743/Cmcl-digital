@@ -470,7 +470,7 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
 Pakistan#####
 #EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5546.png" tvg-name="HUM WORLD" group-title="URDU | TV",HUM WORLD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/5546.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/34156.ts
 #EXTM3U
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://w7.pngwing.com/pngs/75/199/png-transparent-pakistan-hum-tv-television-channel-drama-hum-television-text-logo-thumbnail.png" group-title="PK DRAMA",HUM TV
 http://45.148.145.57/PAK_HUMTVG/index.m3u8
@@ -490,8 +490,6 @@ https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png" group-title="PK SPORTS",Geo Super
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="PK DRAMA",8XM HD
-http://66.102.120.18:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="PK DRAMA",8XM HD
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.aajentertainment.tv/_img/logo.png" group-title="PK DRAMA",Aaj Entertainment
@@ -527,19 +525,17 @@ http://66.102.120.18:8000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",PTV News
 http://66.102.120.18:8000/play/a04s/index.m3u8
 
-#EXTINF:-1,A PLUS
-http://182.176.185.207:7500/play/a0dc/index.m3u8
 
 #EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5563.png" tvg-name="SEE TV PK" group-title="URDU | TV",SEE TV PK
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/5563.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4057.ts
 
 #EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5567.png" tvg-name="APNA TV PK" group-title="URDU | TV",APNA TV PK
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/5567.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/869.ts
 #EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5540.png" tvg-name="GEO TEZ PK" group-title="URDU | TV",GEO TEZ PK
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/5540.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/128.ts
 
 #EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5525.jfif" tvg-name="ARY ZINDAGI" group-title="URDU | TV",ARY ZINDAGI
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/5525.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/123.ts
 
 #EXTINF:-1 tvg-id="406435b761ad" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="",Hum Masala
 https://bongoflixbd.top/test/live.php?id=hum_masala&e=.m3u8
@@ -547,11 +543,10 @@ https://bongoflixbd.top/test/live.php?id=hum_masala&e=.m3u8
 #EXTINF:-1 tvg-id="598a5e7df0bd" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="",Hum Sitarey
 https://bongoflixbd.top/test/live.php?id=hum_sitaray&e=.m3u8
 
-#EXTINF:-1,HUM TV NEWS
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/5456.m3u8
+
 
 #EXTINF:-1 tvg-id="arydigital.pk" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5523.png" tvg-name="ARY DIGITAL BK" group-title="URDU | TV",ARY DIGITAL BK
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/5523.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/124.ts
 
 
 #EXTINF:-1 ,15.Sanonda TV
