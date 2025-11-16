@@ -1,5 +1,34 @@
 # Cmcl-digital
 
+4k channel 
+
+#EXTINF:-1,SKY SPORTS F1 UHD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/384213.ts
+#EXTINF:-1, SKY SPORTS MAIN EVENT UHD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/384215.ts
+#EXTINF:-1, SKY SPORTS UHD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/384222.ts
+#EXTINF:-1,TNT UNLIMITED UHD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/384243.ts
+#EXTINF:-1,SKY SPORTS BUNDESLIGA UHD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/581322.ts
+#EXTINF:-1, SPORTS 1 UHD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/581350.ts
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+
+
+
+
+
 #EXTM3U
 
 #EXTINF:-1, FOOTBALL LIVE
@@ -12,8 +41,8 @@ http://104.238.205.28:8989/278778_.m3u8
 #EXTINF:-1,FUBO SPORTS 
 https://livetv-fa.tubi.video/fubo/master.m3u8
 
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",LaLiGA Live 1
-http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png",LaLiGA Live 1 UHD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/581324.ts
 
 
 
