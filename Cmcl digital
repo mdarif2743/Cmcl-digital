@@ -174,6 +174,9 @@ http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1,ALL TIME BD SONG
 https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1,T SERIES MUSIC
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,DEWANA HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
@@ -244,8 +247,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/260px-Logo_of_My_TV_%28Bangladesh%29.svg.png" group-title="BANGLADESH",মাই টিভি
-#https://mytvbangla.com/0.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png/revision/latest/scale-to-width-down/1000?cb=20240806225614" group-title="BANGLADESH",এটিএন নিউজ
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
