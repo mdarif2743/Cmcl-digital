@@ -144,8 +144,8 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FOOTBALL ⚽ ⚽ ⚽ ⚽ 
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png", live cricket
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",t sports bdcast
+https://bdcast-free.b-cdn.net/live/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE football EPL ⚽ 
 http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 
