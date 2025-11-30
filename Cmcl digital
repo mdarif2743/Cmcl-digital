@@ -798,7 +798,10 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/20512.ts
 
 #Sony
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/8_7790.jpg" group-title="KOLKATA", Sony Aath
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
+http://stvlive.net:8080/sonyaath/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", Sony Entertainment Television HD
 #http://66.102.120.18:8000/play/a005/index.m3u8
