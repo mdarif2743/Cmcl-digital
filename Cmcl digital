@@ -497,8 +497,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESH",এন টিভি
 #http://stvlive.net:8080/ntv/tracks-v1a1/mono.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="BANGLADESH", আর টিভি
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/401.ts
@@ -550,8 +550,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLADESH", মাছরাঙা টেলিভিশন
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1036.ts
-
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1036.ts
+https://tvsen1.aynaott.com/tK2BNvT68fHZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/channel_9.png" group-title="BANGLADESH", চ্যানেল নাইন
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/434.ts
@@ -908,7 +908,11 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 
 #EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-name="Aakaash Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="Channels",Aakaash Bangla TV
-https://cdn-4.pishow.tv/live/969/969_1.m3u8
+#https://cdn-4.pishow.tv/live/969/969_1.m3u8
+https://tvsen1.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="8dc64f21-7dc8-4a41-a583-ddec9f112aeb" tvg-name="R Plus" tvg-logo="https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667" group-title="Channels",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
@@ -952,8 +956,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/375336.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KOLKATA",Star Jalsha HD
 #https://stalker.tnm3us.workers.dev/12101.m3u8
 #https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98883.ts
-https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Bangla/tracks-v1a1/mono.m3u8
-
+#https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Bangla/tracks-v1a1/mono.m3u8
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
@@ -1031,8 +1035,11 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/969.ts
 
 #Colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPswrCmzOk6cjMYZyAc4b9UIZEp5FXqXeulQ&s" group-title="KOLKATA",Colors Bangla HD
-#https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+https://tvsen1.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://66.102.120.18:8000/play/a01a/index.m3u8
@@ -1198,7 +1205,11 @@ https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Zee-Bangla-Hd/tracks-v1a1/mon
 
 #EXTINF:-1 tvg-id="0-9-zeebanglahd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
+https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 #https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
