@@ -331,8 +331,8 @@ http://104.243.40.13:8989/279426_.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png" group-title="Xfireflix",T Sports
-http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-
+#http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+http://51.83.129.17/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png", T SPORTS HD(ayna ott)
 #http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
@@ -612,6 +612,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3803.ts
 
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/1078px-Logo_of_Nagorik_TV.svg.png" group-title="BANGLADESH", নাগরিক টিভি
+#http://51.83.129.17/hls/Nagorik/index.m3u8
 #https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/3802.ts
 http://116.204.149.16/nagorik/index.m3u8
 
