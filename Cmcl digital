@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ISLAMIC CHANNELS",Madani Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="ISLAMIC CHANNELS",Madani Tv
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1,MADANI TV URDU
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/114.ts
