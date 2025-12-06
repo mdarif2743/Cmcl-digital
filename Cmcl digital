@@ -13,8 +13,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Premium" tvg-logo="https://assets-prod.services.toffeelive.com//ty_tbJoBNnOkwJLWsRZG/posters/5e49e175-0e7c-4af4-be13-6711e59d448d.png", BD vs IRE 
-http://103.60.172.71:3255/TSportsHD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery 
@@ -263,7 +262,7 @@ https://allottplay.com/tv/toffee/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTINF:-1,JIO HOTSTAR (IND VS SA)⚾⚾⚾⚾
-https://1a-1791.com/live/y16rq9u0/slot-137/6odd-ekvt/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Fancode Cric 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -415,14 +414,14 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FOOTBALL ⚽ ⚽ ⚽ ⚽ 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",t sports bdcast
-https://bdcast-free.b-cdn.net/live/tsports.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ASTRO CRICKET
-#https://smart.bengaldigital.live/AstroCricket/index.m3u8
-http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ind vs aus ⚾⚾ fox hindi
 
