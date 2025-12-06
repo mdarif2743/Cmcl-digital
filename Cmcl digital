@@ -303,7 +303,10 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/581350.ts
 #EXTINF:-1,DAZA 1 UHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/581352.ts
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagsNGVuAJyaMS65cDa-V-Sz2jwlckaF0dbncZ6twaaaXP3cyoN11QPTPx&s=10" group-title="Sports",Willow Sports ᴴᴰ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
 
