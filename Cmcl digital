@@ -1909,17 +1909,6 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1765152013~acl=%2f*~id=ad941156-c2f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcdY7UM7eLzESXeexsWULhGcpxsbGTABBEyLrc8DgP7MOfLb8Xg3-_v7IfA&s" group-title="HD SPORTS",ESPN
 https://dice-live-oc.akamaized.net/hdntl=exp=1765152013~acl=%2f*~id=ad941156-c2fa-4aa8-809e-0a0b00476b3f~data=hdntl,dWlkPVhaUDZ6aHxlOWE1ZjE4NS1lZTYxLTQwMWEtOGQ2Yy1lNjZjODhiM2E1ZDMmaXA9MTYxLjI5LjIzNy4xODUmZXhwPTE3NjUxNTIwNDImZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df926ce2205cbcfcbeef05c0bab15bd7944d5b668baafe57f04bb0d647065f0b/dash/live/2093713/219038-308445/manifest-d.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUUqZs_9boIB-B-BQ9XT8YZbr4GYSn1ki_eR8TD5wO7IZq4Ls7Ppleg28hA&s" group-title="HD SPORTS",ESPN 2
-https://dice-live-oc.akamaized.net/hdntl=exp=1765152013~acl=%2f*~id=ad941156-c2fa-4aa8-809e-0a0b00476b3f~data=hdntl,dWlkPVhaUDZ6aHxlOWE1ZjE4NS1lZTYxLTQwMWEtOGQ2Yy1lNjZjODhiM2E1ZDMmaXA9MTYxLjI5LjIzNy4xODUmZXhwPTE3NjUxNTIwNDImZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df926ce2205cbcfcbeef05c0bab15bd7944d5b668baafe57f04bb0d647065f0b/dash/live/2093714/219039-308446/manifest-d.mpd
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", Astro Cricket
-https://smart.946985.filegear-sg.me/smart.php?id=Acricket
 
 
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png",Ten Sports HD 4456
@@ -1929,29 +1918,6 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://175.107.244.52:4456/play
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://175.107.244.52:4456/play/a06z
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",ASTRO GOLF
-https://smart.946985.filegear-sg.me/smart.php?id=Agolf
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="",ASTRO SPORTSPLUS
-https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="",ASTRO BADMINTON 1
-https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="",ASTRO BADMINTON 2
-https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",ASTRO GRANDSTAND
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",ASTRO FOOTBALL
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
 
 
 
