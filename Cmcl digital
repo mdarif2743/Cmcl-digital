@@ -1465,9 +1465,9 @@ http://66.102.120.18:8000/play/a05f/index.m3u8
 
 
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 1
-http://kstv.us:8080/live/carloskiu/4461542986/47858.m3u8
+https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 2
-http://kstv.us:8080/live/carloskiu/4461542986/47859.m3u8
+https://abizzcbaaaaaaaaml3dau5ew7oiof.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/w34nznx0bz/out/v1/1c6639b9af994c75847def2249302066/cenc.mpd
 
 #EXTINF:-1 ,Eurosport_HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
@@ -1563,8 +1563,11 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/43444.ts
 
 
 #EXTINF:-1,astro FOOTBALL ⚽⚽
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/5480.ts
-
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
+#EXTINF:-1,ASTRO SPORTS PLUS
+https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
+#EXTINF:-1,ASTRO BETMINTON 1
+https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
 
 
 #EXTINF:-1, SKY SPORTS 1
