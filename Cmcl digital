@@ -953,7 +953,6 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/375336.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KOLKATA",Star Jalsha HD
 #https://stalker.tnm3us.workers.dev/12101.m3u8
-#http://ahil.ott-king.top:8080/555/index.m3u8
 #https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Bangla/tracks-v1a1/mono.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
@@ -989,8 +988,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/375331.ts
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
-http://ahil.ott-king.top:8080/518_starbrhat/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 #http://66.102.120.18:8000/play/a00f/index.m3u8
@@ -1001,8 +1000,8 @@ http://87.255.35.150:18859/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
-http://ahil.ott-king.top:8080/560/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
@@ -1044,8 +1043,8 @@ http://66.102.120.18:8000/play/a01a/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
-http://ahil.ott-king.top:8080/ww/index.m3u8
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="HINDI",Colors TV HD
@@ -1111,10 +1110,10 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9368.ts
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="HINDI", Sony Max HD
 #https://nxtlive.net/sliv/stream.m3u8?id=1000009247|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009247
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98857.ts
-http://ahil.ott-king.top:8080/dddd/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98857.ts
+
 #EXTINF:-1,SONY MAX 1
-http://ahil.ott-king.top:8080/517/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/2_7785.jpg" group-title="HINDI", Sony Max 2
 #https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000044878
