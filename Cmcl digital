@@ -1460,14 +1460,12 @@ http://66.102.120.18:8000/play/a04w/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlmXBfv0wmQzx3xSK8s2KuL6Mvm6OC1WTHVq6HDpn2IVY34TGprkvzxsY&s=10" group-title="Sports",Fast Sports
-http://66.102.120.18:8000/play/a05f/index.m3u8
 
 
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 1
-https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://www.256fallowfield.co.uk/wp-content/uploads/2019/04/premier-sports-logo.png",UK | Premier Sport 2
-https://abizzcbaaaaaaaaml3dau5ew7oiof.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/w34nznx0bz/out/v1/1c6639b9af994c75847def2249302066/cenc.mpd
+
 
 #EXTINF:-1 ,Eurosport_HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
@@ -1548,10 +1546,6 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/5040.ts
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",LaLiga tv(DAZN)
-
-#EXTINF:-1,TURU SPORTS 7
-https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
@@ -1562,25 +1556,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/43444.ts
 
 
 
-#EXTINF:-1,astro FOOTBALL ⚽⚽
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
-#EXTINF:-1,ASTRO SPORTS PLUS
-https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
-#EXTINF:-1,ASTRO BETMINTON 1
-https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
 
 
-#EXTINF:-1, SKY SPORTS 1
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/23997.ts
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",SkySports 2 New Zealand
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/23998.ts
-
-#EXTINF:-1,SKY SPORTS 3
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/23999.ts
-
-
-#EXTINF:-1,SKY SPORTS 4
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/24000.ts
 
 
 
@@ -1636,10 +1613,6 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/428098.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157970.ts
 
 
-#EXTINF:-1,FOX sports 501
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/6651.m3u8
-#EXTINF:-1,DEZAN 1
-http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
 
 
 
@@ -1647,10 +1620,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
 
 
 
-#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 2
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
 
 #EXTINF:0 group-title="SPORTS" ,Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -1664,8 +1634,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 #EXTINF:0 group-title="SPORTS" ,Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Europe  Sports 2 HD
-http://185.189.225.157/EuroSport2/index.m3u8
 
 
 
@@ -1680,24 +1648,9 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
-http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 2
-http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
-http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",Sport 1
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sport",Sport 2
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/2560px-%C5%A0port_logo.svg.png" group-title="Sport",RTVS Šport
-http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
-http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Sport",JOJ Šport 2
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+
 
 
 
@@ -1938,21 +1891,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s" group-title="Sports", EUROSPORT 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoBgMQ2Ia0mhn7QY_hV_5us_kfXCxY5tX6EjY2aG9tYBsYOTz7iFwvAiWZw&s" group-title="Sports", EUROSPORT 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
