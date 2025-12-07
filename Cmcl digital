@@ -1953,16 +1953,11 @@ https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",ASTRO FOOTBALL
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg",NBA TV
-https://smart.946985.filegear-sg.me/smart.php?id=Nba
 
 
 
 
 
-#EXTINF:-1,Fox Sports English
-https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png" group-title="Sports",CBS Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1970,8 +1965,6 @@ https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Laliga TV" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3DPOPG2.webp",Laliga TV
-https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 1 RIZE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
