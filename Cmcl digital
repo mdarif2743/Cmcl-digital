@@ -1111,7 +1111,11 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9368.ts
 #https://nxtlive.net/sliv/stream.m3u8?id=1000009247|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009247
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98857.ts
 
-#EXTINF:-1,SONY MAX 1
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="HINDI", Sony Max (feed)
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/2_7785.jpg" group-title="HINDI", Sony Max 2
