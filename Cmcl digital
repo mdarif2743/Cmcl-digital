@@ -415,16 +415,14 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FOOTBALL ⚽ ⚽ ⚽ ⚽ 
-
+https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",t sports bdcast
 
 
-#EXTINF:-1,GOLF LIVE🏒🏒🏒
-https://smart.946985.filegear-sg.me/smart.php?id=Agolf
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ASTRO CRICKET
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/2494.ts
-https://smart.946985.filegear-sg.me/smart.php?id=Acricket
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/2494.ts
+
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", FOX ASHES
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1856.ts
