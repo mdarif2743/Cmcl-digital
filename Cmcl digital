@@ -412,10 +412,11 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1, SPORTS 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D3H8YrjifjjJsFkxMsKS6DbQr6fmP7wZNsiXc2ID6F27kEGmimgACL3Ep2WpnnAfZWIH" group-title="Sports",MyCo Sports
+https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FOOTBALL ⚽ ⚽ ⚽ ⚽ 
-https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",t sports bdcast
 
 
