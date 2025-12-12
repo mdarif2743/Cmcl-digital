@@ -638,6 +638,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://iptvbd.live/metv1080/1080.m3u8
 
 
+
+#EXTINF:-1,US BD JOURNAL
+http://208.86.19.13:81/510.stream/index.m3u8
+
+
 #EXTINF:-0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/ch52-1.jpg",Channel 52
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/tracks-v1a1/mono.m3u8
 
