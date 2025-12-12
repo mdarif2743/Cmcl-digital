@@ -1749,8 +1749,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/158897.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/503.ts
 #EXTINF:-1,ESPN 2
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157960.ts
-
-
+#EXTINF:-1,ESPN3
+https://mrgifytv.pages.dev/ESPN/index.m3u8
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
