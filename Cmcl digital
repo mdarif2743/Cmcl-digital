@@ -421,6 +421,10 @@ https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max1.m3u8
 
 
 
+
+#EXTINF:-1,MAX2 FOOTBALL
+https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max2.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ASTRO CRICKET
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/2494.ts
 
