@@ -1564,10 +1564,11 @@ http://135.125.109.73:9000/beinsport6_.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports7.default.png?raw=true",Bein Sport 07
 http://135.125.109.73:9000/beinsport7_.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports8.default.png?raw=true",Bein Sport 08
-http://135.125.109.73:9000/beinsport8_.m3u8
+#http://135.125.109.73:9000/beinsport8_.m3u8
+http://167.235.89.164:8000/play/bein8/index.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/Fourqui/tv/blob/master/misc/sports/ppv-live/BeIN_Xtra.png?raw=true",Bein Sport 09
-http://135.125.109.73:9000/beinsport9_.m3u8
-
+#http://135.125.109.73:9000/beinsport9_.m3u8
+http://167.235.89.164:8000/play/bein9/index.m3u8
 
 
 
