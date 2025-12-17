@@ -1185,7 +1185,11 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7064.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98840.ts
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98860.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98860.ts
+http://66.102.120.18:8000/play/a06w/index.m3u8
+
+
+
 #EXTINF:-1,tvg-id="0-9-zeecinema" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/2439.ts
 #EXTINF:-1 tvg-id="0-9-andpictures" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures
