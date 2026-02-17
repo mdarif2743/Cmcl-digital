@@ -251,15 +251,15 @@ http://103.175.73.12:8080/live/137/137_0.m3u8
 http://103.175.73.12:8080/live/138/138_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TLC HINDI
 http://103.175.73.12:8080/live/139/139_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Z NEWS 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Z telugu NEWS 
 http://103.175.73.12:8080/live/141/141_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", DISCOVERY SCIENCE
 http://103.175.73.12:8080/live/142/142_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 143
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FOOD FOOD
 http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FASHION TV
 http://103.175.73.12:8080/live/144/144_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", 
 http://103.175.73.12:8080/live/145/145_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 148
 http://103.175.73.12:8080/live/148/148_0.m3u8
