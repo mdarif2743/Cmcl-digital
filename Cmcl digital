@@ -185,15 +185,15 @@ http://103.175.73.12:8080/live/98/98_0.m3u8
 http://103.175.73.12:8080/live/99/99_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", K NEWS INDIA
 http://103.175.73.12:8080/live/100/100_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 101
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ANB NEWS NATIONAL
 http://103.175.73.12:8080/live/101/101_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 102
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", NEWS 1 INDIA HINDI
 http://103.175.73.12:8080/live/102/102_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 103
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", 24×7 NEWS HINDI
 http://103.175.73.12:8080/live/103/103_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 104
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", INDIA 24 HINDI
 http://103.175.73.12:8080/live/104/104_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 106
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", 
 http://103.175.73.12:8080/live/106/106_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 108
 http://103.175.73.12:8080/live/108/108_0.m3u8
