@@ -11,19 +11,19 @@ http://103.175.73.12:8080/live/4/4_0.m3u8
 http://103.175.73.12:8080/live/5/5_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png" group-title="", SONY SAB SD
 http://103.175.73.12:8080/live/6/6_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Colors HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="", Colors HD
 http://103.175.73.12:8080/live/7/7_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", COLORS SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="", COLORS SD
 http://103.175.73.12:8080/live/8/8_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", STAR UTSAV
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="", STAR UTSAV
 http://103.175.73.12:8080/live/9/9_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", SHOW BOX
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="", SHOW BOX
 http://103.175.73.12:8080/live/10/10_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", SONY PAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png" group-title="", SONY PAL
 http://103.175.73.12:8080/live/11/11_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", COLORS RESTEY
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="", COLORS RESTEY
 http://103.175.73.12:8080/live/12/12_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", BIG MAGIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LOGO_HD/LOGO_HD_image.png" group-title="", BIG MAGIC
 http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", COLORS CINEPLEX SUPERHITS
 http://103.175.73.12:8080/live/14/14_0.m3u8
