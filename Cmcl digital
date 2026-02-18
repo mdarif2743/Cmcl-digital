@@ -337,13 +337,13 @@ http://103.175.73.12:8080/live/185/185_0.m3u8
 http://103.175.73.12:8080/live/186/186_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", DD Sahyadri
 http://103.175.73.12:8080/live/187/187_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAKT MARATI
 http://103.175.73.12:8080/live/188/188_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 189
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", SHEMAROO MarathiBana
 http://103.175.73.12:8080/live/189/189_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 190
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", UNKNOWN CHANNEL
 http://103.175.73.12:8080/live/190/190_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Channel 191
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", 
 http://103.175.73.12:8080/live/191/191_0.m3u8
 #EXTINF:-1, Channel 192
 http://103.175.73.12:8080/live/192/192_0.m3u8
