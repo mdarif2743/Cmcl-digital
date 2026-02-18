@@ -343,9 +343,9 @@ http://103.175.73.12:8080/live/188/188_0.m3u8
 http://103.175.73.12:8080/live/189/189_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", UNKNOWN CHANNEL
 http://103.175.73.12:8080/live/190/190_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", COLORS GUJRATI
 http://103.175.73.12:8080/live/191/191_0.m3u8
-#EXTINF:-1, Channel 192
+#EXTINF:-1, ABP HARIYANA
 http://103.175.73.12:8080/live/192/192_0.m3u8
 #EXTINF:-1, Channel 193
 http://103.175.73.12:8080/live/193/193_0.m3u8
