@@ -668,13 +668,13 @@ http://103.175.73.12:8080/live/416/416_0.m3u8
 http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1, ABP
 http://103.175.73.12:8080/live/418/418_0.m3u8
-#EXTINF:-1, Channel 431
+#EXTINF:-1, star movies select
 http://103.175.73.12:8080/live/431/431_0.m3u8
-#EXTINF:-1, Channel 433
+#EXTINF:-1, star gold 2 hd
 http://103.175.73.12:8080/live/433/433_0.m3u8
-#EXTINF:-1, Channel 437
+#EXTINF:-1, colors Cineplex Bollywood
 http://103.175.73.12:8080/live/437/437_0.m3u8
-#EXTINF:-1, Channel 439
+#EXTINF:-1, colors 
 http://103.175.73.12:8080/live/439/439_0.m3u8
 #EXTINF:-1, Channel 441
 http://103.175.73.12:8080/live/441/441_0.m3u8
