@@ -567,23 +567,24 @@ http://103.175.73.12:8080/live/336/336_0.m3u8
 http://103.175.73.12:8080/live/338/338_0.m3u8
 #EXTINF:-1, Aastha bhajan 
 http://103.175.73.12:8080/live/339/339_0.m3u8
-#EXTINF:-1, Channel 340
+#EXTINF:-1, Sadhna TV
 http://103.175.73.12:8080/live/340/340_0.m3u8
-#EXTINF:-1, Channel 341
+#EXTINF:-1, Satsang TV
 http://103.175.73.12:8080/live/341/341_0.m3u8
-#EXTINF:-1, Channel 342
+#EXTINF:-1, Santvani tv
 http://103.175.73.12:8080/live/342/342_0.m3u8
-#EXTINF:-1, Channel 343
-http://103.175.73.12:8080/live/343/343_0.m3u8
-#EXTINF:-1, Channel 345
+
+
+
+#EXTINF:-1, MANORANJAN PRIME
 http://103.175.73.12:8080/live/345/345_0.m3u8
-#EXTINF:-1, Channel 346
+#EXTINF:-1, AB DHAMAL
 http://103.175.73.12:8080/live/346/346_0.m3u8
-#EXTINF:-1, Channel 347
+#EXTINF:-1, ZEE BISkope
 http://103.175.73.12:8080/live/347/347_0.m3u8
-#EXTINF:-1, Channel 348
+#EXTINF:-1, OSCAR MOVIES
 http://103.175.73.12:8080/live/348/348_0.m3u8
-#EXTINF:-1, Channel 349
+#EXTINF:-1, 
 http://103.175.73.12:8080/live/349/349_0.m3u8
 #EXTINF:-1, Channel 350
 http://103.175.73.12:8080/live/350/350_0.m3u8
